@@ -42,3 +42,4 @@
   - [ ] Injuries
   - [ ] Trades
   - [ ] Salaries / Salary Cap
+- [ ] All star game / all star weekend
