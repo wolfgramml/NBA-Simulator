@@ -1,5 +1,7 @@
 public class Driver {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        SetupUtils.addTeams();
+        SetupUtils.createTeams();
+        SetupUtils.display();
     }
 }
