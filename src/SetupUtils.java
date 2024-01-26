@@ -10,10 +10,14 @@ public class SetupUtils {
     public static Team parseTeam(String path) {
         Team newTeam = null;
         String teamName;
+        String conference;
+        String division;
         try {
             Scanner scanner = new Scanner(new File(path));
             teamName = scanner.nextLine();
-            newTeam = new Team(teamName);
+            conference = scanner.nextLine();
+            division = scanner.nextLine();
+            newTeam = new Team(teamName, conference, division);
         } catch (FileNotFoundException e) {
             System.err.println(e.getMessage());
         }

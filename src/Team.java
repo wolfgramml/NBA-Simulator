@@ -5,9 +5,12 @@ public class Team {
     private int losses = 0;
     private String conference;
     private String division;
+    private String coach;
 
-    public Team(String name) {
+    public Team(String name, String conference, String division) {
         this.name = name;
+        this.conference = conference;
+        this.division = division;
     }
 
     public Team(String name, Player[] players) {
@@ -24,6 +27,7 @@ public class Team {
     }
 
     public void display() {
-        System.out.println(name);
+        System.out.println("The " + name + " are in the " + conference + " Conference in the "
+            + division + " division.");
     }
 }
