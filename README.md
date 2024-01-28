@@ -8,6 +8,8 @@
 
 - [ ] Create teams interface with all necessary data
 - [ ] Get data to be read during runtime
+- [ ] Standings
+  - [ ] Keep track of head to head between teams in case of tiebreaker
 
 <p>Functionality</p>
 
@@ -21,11 +23,12 @@
 - [ ] Settings
     - [ ] Simulation stop frequency
 - [ ] End of season
-    - [ ] Awards
-        - [ ] MVP
-        - [ ] COTY
-        - [ ] DPOY
-        - [ ] 1st, 2nd, 3rd Team All NBA
+  - [ ] View team stats
+  - [ ] Awards
+      - [ ] MVP
+      - [ ] COTY
+      - [ ] DPOY
+      - [ ] 1st, 2nd, 3rd Team All NBA
 
 <p>GUI</p>
 
