@@ -69,4 +69,8 @@ public class SetupUtils {
             teams.get(i).display();
         }
     }
+
+    public static List<Team> getTeams() {
+        return teams;
+    }
 }

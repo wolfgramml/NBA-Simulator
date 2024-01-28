@@ -30,4 +30,8 @@ public class Team {
         System.out.println("The " + name + " are in the " + conference + " Conference in the "
             + division + " division.");
     }
+
+    public void displayRecord() {
+        System.out.println("The " + name + " have a record of " + wins + "-" + losses + ".");
+    }
 }
