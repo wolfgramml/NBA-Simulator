@@ -66,6 +66,7 @@ public class SetupUtils {
 
     public static void display() {
         for(int i = 0; i < teams.size(); i++) {
+            System.out.print("(team " + (i+1) + ") ");
             teams.get(i).display();
         }
     }
