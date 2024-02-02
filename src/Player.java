@@ -4,7 +4,7 @@ public class Player {
     private int offenseRating;
     private int defenseRating;
     private String position;
-    private int yearsExperience;
+    private int yearsExperience; // won't implement until working on multiple seasons
     private int age;
 
     public Player(String name, Team team) {

@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Team {
     private String name;
     private Player[] players;
@@ -6,6 +9,7 @@ public class Team {
     private String conference;
     private String division;
     private String coach;
+    private List<Matchup> listOfMatchups = new ArrayList<>();
 
     public Team(String name, String conference, String division) {
         this.name = name;
