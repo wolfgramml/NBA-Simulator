@@ -74,4 +74,26 @@ public class SetupUtils {
     public static List<Team> getTeams() {
         return teams;
     }
+
+    public static void createMatchups() {
+        for(int i = 0; i < 30; i++) {
+            Team currentTeam = teams.get(i);
+            for(int j = 0; j < 30; j++) {
+                Team opponent = teams.get(j);
+                if(i != j) {
+//                    if(currentTeam.getConference() != opponent.getConference()) {
+                    if(!currentTeam.matchupExists(opponent)) {
+                        Matchup matchup = new Matchup(currentTeam, opponent, 2);
+                        currentTeam.addMatchup(matchup);
+                        opponent.addMatchup(matchup);
+                    }
+//                    }
+//                    else if(currentTeam.getConference() == opponent.getConference() && currentTeam.getDivision() != opponent.getDivision()) {
+//
+//                    }
+                }
+            }
+        }
+    }
+
 }

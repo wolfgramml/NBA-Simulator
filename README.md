@@ -6,8 +6,9 @@
 <p>Here is a list of features that are yet to be implemented:</p> 
 <p>Teams</p>
 
-- [ ] Create teams interface with all necessary data
+- [x] Create teams interface with all necessary data
 - [ ] Get data to be read during runtime
+- [ ] Add all necessary data to txt files
 - [ ] Standings
   - [ ] Keep track of head to head between teams in case of tiebreaker
 

@@ -5,20 +5,22 @@ public class Driver {
     public static void main(String[] args) {
         SetupUtils.addTeams();
         SetupUtils.createTeams();
-//        SetupUtils.display();
+        SetupUtils.createMatchups();
         List<Team> teams =  SetupUtils.getTeams();
+        CalculationUtils.simulateMatchups();
+
         Scanner scanner = new Scanner(System.in);
-        int awayTeam;
-        int homeTeam;
+        int teamNum;
         SetupUtils.display();
-        System.out.println("Please enter the number of the away team.");
-        awayTeam = scanner.nextInt() - 1;
-        System.out.println("Please enter the number of the home team.");
-        homeTeam = scanner.nextInt() - 1;
-        for(int i = 0; i < 7; i++) {
-            CalculationUtils.calculateMatch(teams.get(awayTeam), teams.get(homeTeam));
+        System.out.println("What team's record would you like to view? Enter -1 to quit.");
+        teamNum = scanner.nextInt();
+        while(teamNum != -1) {
+            teams.get(teamNum-1).displayRecord();
+            System.out.println("----------------------------------");
+            SetupUtils.display();
+            System.out.println("What team's record would you like to view? Enter -1 to quit.");
+            teamNum = scanner.nextInt();
         }
-        teams.get(awayTeam).displayRecord();
-        teams.get(homeTeam).displayRecord();
+
     }
 }

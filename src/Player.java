@@ -5,7 +5,7 @@ public class Player {
     private int defenseRating;
     private String position;
     private int yearsExperience; // won't implement until working on multiple seasons
-    private int age;
+    private int age; // Probably won't implement until working on multiple seasons
 
     public Player(String name, Team team) {
         this.name = name;

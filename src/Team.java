@@ -38,4 +38,45 @@ public class Team {
     public void displayRecord() {
         System.out.println("The " + name + " have a record of " + wins + "-" + losses + ".");
     }
+
+    public void displayMatchups() {
+        for(int i = 0; i < listOfMatchups.size(); i++) {
+            listOfMatchups.get(i).display();
+        }
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getConference() {
+        return conference;
+    }
+
+    public String getDivision() {
+        return division;
+    }
+
+    public void addMatchup(Matchup matchup) {
+        listOfMatchups.add(matchup);
+    }
+
+    public void playAllMatchups() {
+        for(int i = 0; i < listOfMatchups.size(); i++) {
+            while(!listOfMatchups.get(i).allGamesPlayed()) {
+                CalculationUtils.calculateMatch(listOfMatchups.get(i));
+            }
+        }
+    }
+
+    public boolean matchupExists(Team otherTeam) {
+        for(int i = 0; i < listOfMatchups.size(); i++) {
+            if(otherTeam.getName() .equals(listOfMatchups.get(i).getTeamOne().getName()) ||
+                    otherTeam.getName().equals(listOfMatchups.get(i).getTeamTwo().getName())) {
+                return true;
+            }
+        }
+        return false;
+    }
+
 }
