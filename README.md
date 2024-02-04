@@ -6,7 +6,7 @@
 <p>Here is a list of features that are yet to be implemented:</p> 
 <p>Teams</p>
 
-- [x] Create teams interface with all necessary data
+- [x] Create teams interface with all necessary variables to store data
 - [ ] Get data to be read during runtime
 - [ ] Add all necessary data to txt files
 - [ ] Standings
