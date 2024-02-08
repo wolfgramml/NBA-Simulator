@@ -75,25 +75,36 @@ public class SetupUtils {
         return teams;
     }
 
-    public static void createMatchups() {
+    public static void createAllMatchups() {
         for(int i = 0; i < 30; i++) {
             Team currentTeam = teams.get(i);
             for(int j = 0; j < 30; j++) {
                 Team opponent = teams.get(j);
                 if(i != j) {
-//                    if(currentTeam.getConference() != opponent.getConference()) {
-                    if(!currentTeam.matchupExists(opponent)) {
-                        Matchup matchup = new Matchup(currentTeam, opponent, 2);
-                        currentTeam.addMatchup(matchup);
-                        opponent.addMatchup(matchup);
+                    int gamesToPlay = 0;
+                    if(!currentTeam.getConference().equals(opponent.getConference())) {
+                        gamesToPlay = 2;
+                    } else if(currentTeam.getConference().equals(opponent.getConference()) && !currentTeam.getDivision().equals(opponent.getDivision())) {
+                        // Should have 4 games against 6 different teams, and 3 games against the other 4 non-division, same conference teams
+                        if(true) {
+                            gamesToPlay = 4;
+                        }
+                    } else if(currentTeam.getConference().equals(opponent.getConference()) && currentTeam.getDivision().equals(opponent.getDivision())) {
+                        gamesToPlay = 4;
+                    } else {
+                        throw new IllegalStateException("It should not be possible to reach this line, assuming the data is in the txt files correctly.");
                     }
-//                    }
-//                    else if(currentTeam.getConference() == opponent.getConference() && currentTeam.getDivision() != opponent.getDivision()) {
-//
-//                    }
+                    createIndividualMatchup(currentTeam, opponent, gamesToPlay);
                 }
             }
         }
     }
 
+    public static void createIndividualMatchup(Team currentTeam, Team opponent, int gamesToPlay) {
+        if(!currentTeam.matchupExists(opponent)) {
+            Matchup matchup = new Matchup(currentTeam, opponent, gamesToPlay);
+            currentTeam.addMatchup(matchup);
+            opponent.addMatchup(matchup);
+        }
+    }
 }

@@ -5,7 +5,7 @@ public class Driver {
     public static void main(String[] args) {
         SetupUtils.addTeams();
         SetupUtils.createTeams();
-        SetupUtils.createMatchups();
+        SetupUtils.createAllMatchups();
         List<Team> teams =  SetupUtils.getTeams();
         CalculationUtils.simulateMatchups();
 

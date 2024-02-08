@@ -1,9 +1,9 @@
 public class Matchup {
-    private Team teamOne;
-    private Team teamTwo;
+    private final Team teamOne;
+    private final Team teamTwo;
     private int teamOneWins;
     private int teamOneLosses;
-    private int gamesToPlay;
+    private final int gamesToPlay;
 
     public Matchup(Team teamOne, Team teamTwo, int gamesToPlay) {
         this.teamOne = teamOne;
