@@ -8,7 +8,7 @@
 
 - [x] Create teams interface with all necessary variables to store data
 - [x] Get data to be read during runtime
-- [ ] Create all matchups for each team
+- [x] Create all matchups for each team
 - [ ] Make sure each team has 41 home games and 41 away games
 - [ ] Add all necessary data to txt files
 - [ ] Standings
