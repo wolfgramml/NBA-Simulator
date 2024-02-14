@@ -5,8 +5,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SetupUtils {
-    private static List<String> listOfTeamNames = new ArrayList<>();
-    private static List<Team> teams = new ArrayList<>();
+    private static final List<String> listOfTeamNames = new ArrayList<>();
+    private static final List<Team> teams = new ArrayList<>();
     public static Team parseTeam(String path) {
         Team newTeam = null;
         String teamName;
@@ -76,35 +76,123 @@ public class SetupUtils {
     }
 
     public static void createAllMatchups() {
-        for(int i = 0; i < 30; i++) {
-            Team currentTeam = teams.get(i);
-            for(int j = 0; j < 30; j++) {
-                Team opponent = teams.get(j);
-                if(i != j) {
-                    int gamesToPlay = 0;
-                    if(!currentTeam.getConference().equals(opponent.getConference())) {
-                        gamesToPlay = 2;
-                    } else if(currentTeam.getConference().equals(opponent.getConference()) && !currentTeam.getDivision().equals(opponent.getDivision())) {
-                        // Should have 4 games against 6 different teams, and 3 games against the other 4 non-division, same conference teams
-                        if(true) {
-                            gamesToPlay = 4;
-                        }
-                    } else if(currentTeam.getConference().equals(opponent.getConference()) && currentTeam.getDivision().equals(opponent.getDivision())) {
-                        gamesToPlay = 4;
-                    } else {
-                        throw new IllegalStateException("It should not be possible to reach this line, assuming the data is in the txt files correctly.");
-                    }
-                    createIndividualMatchup(currentTeam, opponent, gamesToPlay);
+        List<Team> atlantic = new ArrayList<>();
+        List<Team> central = new ArrayList<>();
+        List<Team> southeast = new ArrayList<>();
+        List<Team> northwest = new ArrayList<>();
+        List<Team> pacific = new ArrayList<>();
+        List<Team> southwest = new ArrayList<>();
+        for(Team team : teams) {
+            if(team.getDivision().equals("Atlantic")) {
+                atlantic.add(team);
+            } else if(team.getDivision().equals("Central")) {
+                central.add(team);
+            } else if(team.getDivision().equals("Southeast")) {
+                southeast.add(team);
+            } else if(team.getDivision().equals("Northwest")) {
+                northwest.add(team);
+            } else if(team.getDivision().equals("Pacific")) {
+                pacific.add(team);
+            } else if(team.getDivision().equals("Southwest")) {
+                southwest.add(team);
+            }
+        }
+        //creates all east vs west matchups
+        createWestEastMatchups(atlantic, northwest, pacific, southwest);
+        createWestEastMatchups(central, northwest, pacific, southwest);
+        createWestEastMatchups(southeast, northwest, pacific, southwest);
+
+        //creates all same division matchups
+        createDivisionMatchups(atlantic);
+        createDivisionMatchups(central);
+        createDivisionMatchups(southeast);
+        createDivisionMatchups(northwest);
+        createDivisionMatchups(pacific);
+        createDivisionMatchups(southwest);
+
+        //creates all same conference non-divisional matchups
+        createNonDivisionMatchups(atlantic, central, southeast);
+        createNonDivisionMatchups(central, atlantic, southeast);
+        createNonDivisionMatchups(southeast, central, atlantic);
+        createNonDivisionMatchups(northwest, pacific, southwest);
+        createNonDivisionMatchups(pacific, northwest, southwest);
+        createNonDivisionMatchups(southwest, pacific, northwest);
+    }
+
+    public static void createWestEastMatchups(List<Team> eastDivision, List<Team> northwest, List<Team> pacific, List<Team> southwest) {
+        for(Team eastTeam : eastDivision) {
+            for(Team westTeam : northwest) {
+                createIndividualMatchup(eastTeam, westTeam, 2);
+            }
+            for(Team westTeam : pacific) {
+                createIndividualMatchup(eastTeam, westTeam, 2);
+            }
+            for(Team westTeam : southwest) {
+                createIndividualMatchup(eastTeam, westTeam, 2);
+            }
+        }
+    }
+
+    public static void createDivisionMatchups(List<Team> division) {
+        for(int i = 0; i < division.size(); i++) {
+            Team currentTeam = division.get(i);
+            for(int j = 1; j < division.size(); j++) {
+                Team opponent = division.get(j);
+                if(!currentTeam.equals(opponent)) {
+                    createIndividualMatchup(currentTeam, opponent, 4);
                 }
             }
         }
     }
 
-    public static void createIndividualMatchup(Team currentTeam, Team opponent, int gamesToPlay) {
+    public static void createNonDivisionMatchups(List<Team> currentDivision, List<Team> otherDivisionOne, List<Team> otherDivisionTwo) {
+        int size = currentDivision.size();
+        for(int i = 0; i < size; i++) {
+            Team currentTeam = currentDivision.get(i);
+            Team opponent = otherDivisionOne.get(i % 5);
+            createFourGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionTwo.get(i % 5);
+            createFourGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionOne.get((i + 1) % 5);
+            createFourGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionTwo.get((i + 1) % 5);
+            createFourGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionOne.get((i + 2) % 5);
+            createFourGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionTwo.get((i + 2) % 5);
+            createFourGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionOne.get((i + 3) % 5);
+            createThreeGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionTwo.get((i + 3) % 5);
+            createThreeGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionOne.get((i + 4) % 5);
+            createThreeGameMatchup(currentTeam, opponent);
+            opponent = otherDivisionTwo.get((i + 4) % 5);
+            createThreeGameMatchup(currentTeam, opponent);
+        }
+    }
+
+    public static void createFourGameMatchup(Team currentTeam, Team opponent) {
+        if (createIndividualMatchup(currentTeam, opponent, 4)) {
+            currentTeam.addNonDivFourGameMatchup();
+            opponent.addNonDivFourGameMatchup();
+        }
+    }
+
+    public static void createThreeGameMatchup(Team currentTeam, Team opponent) {
+        if(createIndividualMatchup(currentTeam, opponent, 3)) {
+            currentTeam.addNonDivThreeGameMatchup();
+            opponent.addNonDivThreeGameMatchup();
+        }
+    }
+
+    public static boolean createIndividualMatchup(Team currentTeam, Team opponent, int gamesToPlay) {
         if(!currentTeam.matchupExists(opponent)) {
             Matchup matchup = new Matchup(currentTeam, opponent, gamesToPlay);
             currentTeam.addMatchup(matchup);
             opponent.addMatchup(matchup);
+            return true;
         }
+        return false;
     }
 }

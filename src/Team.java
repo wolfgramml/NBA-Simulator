@@ -10,6 +10,8 @@ public class Team {
     private String division;
     private String coach;
     private List<Matchup> listOfMatchups = new ArrayList<>();
+    private int nonDivFourGames = 0;
+    private int nonDivThreeGames = 0;
 
     public Team(String name, String conference, String division) {
         this.name = name;
@@ -45,6 +47,15 @@ public class Team {
         }
     }
 
+    public void displayGamesPlayed() {
+        System.out.println("The " + name + " have played " + (wins + losses) + " games.");
+    }
+
+    public void displayNonDivisional() {
+        System.out.println("The " + name + " have played 4 games against " + nonDivFourGames + " teams and" +
+                " 3 games against " + nonDivThreeGames + " teams.");
+    }
+
     public String getName() {
         return name;
     }
@@ -55,6 +66,14 @@ public class Team {
 
     public String getDivision() {
         return division;
+    }
+
+    public void addNonDivFourGameMatchup() {
+        nonDivFourGames++;
+    }
+
+    public void addNonDivThreeGameMatchup() {
+        nonDivThreeGames++;
     }
 
     public void addMatchup(Matchup matchup) {
