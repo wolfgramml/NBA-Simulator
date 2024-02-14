@@ -12,7 +12,19 @@
 - [ ] Make sure each team has 41 home games and 41 away games
 - [ ] Add all necessary data to txt files
 - [ ] Standings
-  - [ ] Keep track of head to head between teams in case of tiebreaker
+  - [x] Keep track of head to head between teams in case of tiebreaker
+
+<p>Players</p>
+
+- [ ] Add all necessary data to corresponding team's txt file
+    - [x] Name
+    - [ ] Offensive Rating
+    - [ ] Defensive Rating
+    - [ ] Age
+    - [ ] Years Experience
+- [ ] Track individual game stats
+- [ ] Track average stats
+
 
 <p>Functionality</p>
 
