@@ -2,19 +2,19 @@ Philadelphia 76ers
 Eastern
 Atlantic
 Nick Nurse
-Tyrese Maxey
-Cameron Payne
-Buddy Hield
-Kyle Lowry
-KJ Martin
-Mo Bamba
-De'Anthony Melton
-Kelly Oubre Jr.
-Tobias Harris
-Ricky Council IV
-Joel Embiid
-Terquavion Smith
-Robert Convington
-Kenneth Lofton Jr.
-Nicolas Batum
-Paul Reed
+Tyrese Maxey,85,52
+Buddy Hield,75,52
+KJ Martin,70,53
+Mo Bamba,66,72
+Kyle Lowry,75,58
+De'Anthony Melton,72,62
+Kelly Oubre Jr.,72,59
+Tobias Harris,77,57
+Ricky Council IV,72,60
+Joel Embiid,89,83
+Cameron Payne,70,43
+Terquavion Smith,64,45
+Robert Convington,68,72
+Kenneth Lofton Jr.,68,63
+Nicolas Batum,72,58
+Paul Reed,72,71
