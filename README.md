@@ -6,18 +6,13 @@
 <p>Here is a list of features that are yet to be implemented:</p> 
 <p>Teams</p>
 
-- [x] Create teams interface with all necessary variables to store data
-- [x] Get data to be read during runtime
-- [x] Create all matchups for each team
 - [ ] Make sure each team has 41 home games and 41 away games
 - [ ] Add all necessary data to txt files
 - [ ] Standings
-  - [x] Keep track of head to head between teams in case of tiebreaker
 
 <p>Players</p>
 
 - [ ] Add all necessary data to corresponding team's txt file
-    - [x] Name
     - [ ] Offensive Rating
     - [ ] Defensive Rating
     - [ ] Age
@@ -61,3 +56,11 @@
   - [ ] Trades
   - [ ] Salaries / Salary Cap
 - [ ] All star game / all star weekend
+
+## Already Implemented
+<p>These features have already been implemented:</p>
+
+- Created txt files for each team and added all necessary info about the team
+- Parsed txt files to get info about the team and create Team objects
+- Created matchups for each team
+- Added all players' names to associated team's txt file
