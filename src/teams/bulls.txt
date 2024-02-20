@@ -2,20 +2,20 @@ Chicago Bulls
 Eastern
 Central
 Billy Donovan
-Henri Drell
-Coby White
-Lonzo Ball
-Andre Drummond
-Jevon Carter
-Alex Caruson
-Zach LaVine
-Nikola Vucevic
-DeMar DeRozan
-Ayo Dosunmu
-Torrey Craig
-Julian Phillips
-Onuralp Bitim
-Adama Sanogo
-Dalen Terry
-Terry Taylor
-Patrick Williams
+Coby White,81,51
+Lonzo Ball,78,65
+Andre Drummond,65,84
+Jevon Carter,69,50
+Alex Caruso,69,67
+Zach LaVine,76,54
+Nikola Vucevic,75,67
+DeMar DeRozan,80,53
+Ayo Dosunmu,72,52
+Torrey Craig,66,69
+Julian Phillips,62,52
+Onuralp Bitim,68,52
+Adama Sanogo,62,62
+Dalen Terry,64,60
+Terry Taylor,64,58
+Patrick Williams,72,60
+Henri Drell,66,53
