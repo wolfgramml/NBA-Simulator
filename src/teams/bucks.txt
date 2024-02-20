@@ -2,18 +2,19 @@ Milwaukee Bucks
 Eastern
 Central
 Doc Rivers
-Damian Lillard
-MarJon Beauchamp
-Malik Beasley
-Chris Livingston
-Bobby Portis
-Brook Lopez
-AJ Green
-Patrick Beverley
-Khris Middleton
-TyTy Washington Jr.
-Pat Connaughton
-Giannis Antetokounmpo
-Thanasis Antetokounmpo
-Andre Jackson Jr.
-Jae Crowder
+Damian Lillard,82,51
+MarJon Beauchamp,68,55
+Malik Beasley,70,50
+Chris Livingston,68,54
+Bobby Portis,74,67
+Brook Lopez,72,65
+Danilo Gallinari,69,57
+AJ Green,68,45
+Patrick Beverley,66,62
+Khris Middleton,77,61
+TyTy Washington Jr.,61,49
+Pat Connaughton,69,50
+Giannis Antetokounmpo,89,81
+Thanasis Antetokounmpo,68,56
+Andre Jackson Jr.,73,63
+Jae Crowder,69,58
