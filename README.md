@@ -6,8 +6,7 @@
 <p>Here is a list of features that are yet to be implemented:</p> 
 <p>Teams</p>
 
-- [ ] Make sure each team has 41 home games and 41 away games
-- [ ] Standings
+- [ ] Keep track of standings
 
 <p>Players</p>
 
@@ -63,3 +62,4 @@
 - Parsed txt files to get info about the team and create Team objects
 - Created matchups for each team
 - Added all players' names to associated team's txt file
+- Ensured each team has 41 home games and 41 away games
