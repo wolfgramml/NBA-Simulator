@@ -166,9 +166,9 @@ public class SetupUtils {
             opponent = otherDivisionTwo.get((i + 3) % 5);
             createThreeGameMatchup(currentTeam, opponent);
             opponent = otherDivisionOne.get((i + 4) % 5);
-            createThreeGameMatchup(currentTeam, opponent);
+            createThreeGameMatchup(opponent, currentTeam);
             opponent = otherDivisionTwo.get((i + 4) % 5);
-            createThreeGameMatchup(currentTeam, opponent);
+            createThreeGameMatchup(opponent, currentTeam);
         }
     }
 

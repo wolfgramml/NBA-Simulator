@@ -12,8 +12,8 @@ public class CalculationUtils {
     }
 
     public static void calculateMatch(Matchup matchup) {
-        Team homeTeam = matchup.getTeamOne();
-        Team awayTeam = matchup.getTeamTwo();
+        Team homeTeam = matchup.getHomeTeam();
+        Team awayTeam = matchup.getAwayTeam();
         int val;
         Random rand = new Random();
         val = rand.nextInt();
@@ -26,6 +26,8 @@ public class CalculationUtils {
             homeTeam.updateLosses();
             awayTeam.updateWins();
         }
+        homeTeam.addHomeGame();
+        awayTeam.addAwayGame();
     }
 
     public static void calculatePlayoffSeries() {

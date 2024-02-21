@@ -31,6 +31,22 @@ public class Matchup {
         return teamTwo;
     }
 
+    public Team getHomeTeam() {
+        if((teamOneWins + teamOneLosses) % 2 == 0) {
+            return teamOne;
+        } else {
+            return teamTwo;
+        }
+    }
+
+    public Team getAwayTeam() {
+        if((teamOneWins + teamOneLosses) % 2 == 0) {
+            return teamTwo;
+        } else {
+            return teamOne;
+        }
+    }
+
     public boolean allGamesPlayed() {
         return gamesToPlay <= (teamOneWins + teamOneLosses);
     }
