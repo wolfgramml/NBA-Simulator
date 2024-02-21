@@ -2,20 +2,20 @@ Boston Celtics
 Eastern
 Atlantic
 Joe Mazzulla
-Drew Peterson
-Jayson Tatum
-Xavier Tillman
-Jaden Springer
-Jrue Holiday
-Jaylen Brown
-Kristaps Porzingis
-Derrick White
-Payton Pritchard
-Oshae Brissett
-Jd Davison
-Jordan Walsh
-Sam Hauser
-Luke Kornet
-Al Horford
-Svi Mykhailiuk
-Neemias Queta
+Jayson Tatum,89,68
+Jrue Holiday,77,67
+Jaylen Brown,82,64
+Kristaps Porzingis,80,64
+Derrick White,77,61
+Payton Pritchard,75,49
+Oshae Brissett,68,61
+Drew Peterson,68,52
+JD Davison,67,51
+Xavier Tillman,66,73
+Jordan Walsh,65,57
+Sam Hauser,69,49
+Luke Kornet,70,67
+Al Horford,72,68
+Jaden Springer,68,63
+Svi Mykhailiuk,68,45
+Neemias Queta,62,68
