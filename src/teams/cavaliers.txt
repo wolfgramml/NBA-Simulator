@@ -2,20 +2,21 @@ Cleveland Cavaliers
 Eastern
 Central
 JB Bickerstaff
-Max Strus
-Ty Jerome
-Caris LeVert
-Evan Mobley
-Sam Merrill
-Craig Porter Jr.
-Darius Garland
-Tristan Thompson
-Isaiah Mobley
-Zhaire Smith
-Georges Niang
-Emoni Bates
-Damian Jones
-Jarret Allen
-Dean Wade
-Isaac Okoro
-Donovan Mitchell
+Max Strus,69,50
+Ty Jerome,70,47
+Caris LeVert,76,54
+Evan Mobley,79,79
+Sam Merrill,73,47
+Pete Nance,61,61
+Craig Porter Jr.,74,58
+Darius Garland,78,48
+Tristan Thompson,62,72
+Isaiah Mobley,67,61
+Zhaire Smith,63,53
+Georges Niang,71,51
+Emoni Bates,62,47
+Damian Jones,60,63
+Jarrett Allen,76,77
+Dean Wade,67,60
+Isaac Okoro,67,61
+Donovan Mitchell,86,62
