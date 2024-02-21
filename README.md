@@ -7,7 +7,6 @@
 <p>Teams</p>
 
 - [ ] Make sure each team has 41 home games and 41 away games
-- [ ] Add all necessary data to txt files
 - [ ] Standings
 
 <p>Players</p>
