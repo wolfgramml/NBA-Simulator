@@ -32,3 +32,20 @@ Giannis Antetokounmpo,https://www.2kratings.com/giannis-antetokounmpo
 Thanasis Antetokounmpo,https://www.2kratings.com/thanasis-antetokounmpo
 Andre Jackson Jr.,https://www.2kratings.com/andre-jackson-jr
 Jae Crowder,https://www.2kratings.com/jae-crowder
+Coby White,https://www.2kratings.com/coby-white
+Lonzo Ball,https://www.2kratings.com/lonzo-ball
+Andre Drummond,https://www.2kratings.com/andre-drummond
+Jevon Carter,https://www.2kratings.com/jevon-carter
+Alex Caruso,https://www.2kratings.com/alex-caruso
+Zach LaVine,https://www.2kratings.com/zach-lavine
+Nikola Vucevic,https://www.2kratings.com/nikola-vucevic
+DeMar DeRozan,https://www.2kratings.com/demar-derozan
+Ayo Dosunmu,https://www.2kratings.com/ayo-dosunmu
+Torrey Craig,https://www.2kratings.com/torrey-craig
+Julian Phillips,https://www.2kratings.com/julian-phillips
+Onuralp Bitim,https://www.2kratings.com/onuralp-bitim
+Adama Sanogo,https://www.2kratings.com/adama-sanogo
+Dalen Terry,https://www.2kratings.com/dalen-terry
+Terry Taylor,https://www.2kratings.com/terry-taylor
+Patrick Williams,https://www.2kratings.com/patrick-williams
+Henri Drell,https://www.2kratings.com/henri-drell
