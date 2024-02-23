@@ -15,6 +15,7 @@
     - [ ] Defensive Rating
     - [ ] Age
     - [ ] Years Experience
+    - [ ] Position
 - [ ] Track individual game stats
 - [ ] Track average stats
 
