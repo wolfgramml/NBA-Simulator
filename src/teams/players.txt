@@ -209,3 +209,19 @@ Alex Len,https://www.2kratings.com/alex-len
 Jordan Ford,https://www.2kratings.com/jordan-ford
 Harrison Barnes,https://www.2kratings.com/harrison-barnes
 Trey Lyles,https://www.2kratings.com/trey-lyles
+Donte DiVincenzo,https://www.2kratings.com/donte-divincenzo
+Jacob Toppin,https://www.2kratings.com/jacob-toppin
+Duane Washington Jr.,https://www.2kratings.com/duane-washington-jr
+Miles McBride,https://www.2kratings.com/miles-mcbride
+Josh Hart,https://www.2kratings.com/josh-hart
+Charlie Brown Jr.,https://www.2kratings.com/charlie-brown-jr
+Precious Achiuwa,https://www.2kratings.com/precious-achiuwa
+OG Anunoby,https://www.2kratings.com/og-anunoby
+DaQuan Jeffries,https://www.2kratings.com/daquan-jeffries
+Jalen Brunson,https://www.2kratings.com/jalen-brunson
+Alec Burks,https://www.2kratings.com/alec-burks
+Mitchell Robinson,https://www.2kratings.com/mitchell-robinson
+Julius Randle,https://www.2kratings.com/julius-randle
+Bojan Bogdanovic,https://www.2kratings.com/bojan-bogdanovic
+Jericho Sims,https://www.2kratings.com/jericho-sims
+Isaiah Hartenstein,https://www.2kratings.com/isaiah-hartenstein
