@@ -243,3 +243,21 @@ LeBron James,https://www.2kratings.com/lebron-james
 Spencer Dinwiddie,https://www.2kratings.com/spencer-dinwiddie
 Rui Hachimura,https://www.2kratings.com/rui-hachimura
 Christian Wood,https://www.2kratings.com/christian-wood
+Anthony Black,https://www.2kratings.com/anthony-black
+Jonathan Isaac,https://www.2kratings.com/jonathan-isaac
+Caleb Houstan,https://www.2kratings.com/caleb-houstan
+Chuma Okeke,https://www.2kratings.com/chuma-okeke
+Jalen Suggs,https://www.2kratings.com/jalen-suggs
+Paolo Banchero,https://www.2kratings.com/paolo-banchero
+Joe Ingles,https://www.2kratings.com/joe-ingles
+Kevon Harris,https://www.2kratings.com/kevon-harris
+Trevelin Queen,https://www.2kratings.com/trevelin-queen
+Jett Howard,https://www.2kratings.com/jett-howard
+Gary Harris,https://www.2kratings.com/gary-harris
+Markelle Fultz,https://www.2kratings.com/markelle-fultz
+Moritz Wagner,https://www.2kratings.com/moritz-wagner
+Franz Wagner,https://www.2kratings.com/franz-wagner
+Admiral Schofield,https://www.2kratings.com/admiral-schofield
+Wendell Carter Jr.,https://www.2kratings.com/wendell-carter-jr
+Goga Bitadze,https://www.2kratings.com/goga-bitadze
+Cole Anthony,https://www.2kratings.com/cole-anthony
