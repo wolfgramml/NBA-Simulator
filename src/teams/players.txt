@@ -138,3 +138,21 @@ Garrison Mathews,https://www.2kratings.com/garrison-mathews
 Vit Krejci,https://www.2kratings.com/vit-krejci
 Wesley Matthews,https://www.2kratings.com/wesley-matthews
 Saddiq Bey,https://www.2kratings.com/saddiq-bey
+Josh Richardson,https://www.2kratings.com/josh-richardson
+Terry Rozier,https://www.2kratings.com/terry-rozier
+Nikola Jovic,https://www.2kratings.com/nikola-jovic
+Jamal Cain,https://www.2kratings.com/jamal-cain
+Dru Smith,https://www.2kratings.com/dru-smith
+Jaime Jaquez Jr.,https://www.2kratings.com/jaime-jaquez-jr
+Bam Adebayo,https://www.2kratings.com/bam-adebayo
+Tyler Herro,https://www.2kratings.com/tyler-herro
+Caleb Martin,https://www.2kratings.com/caleb-martin
+Cole Swider,https://www.2kratings.com/cole-swider
+Jimmy Butler,https://www.2kratings.com/jimmy-butler
+Haywood Highsmith,https://www.2kratings.com/haywood-highsmith
+Orlando Robinson,https://www.2kratings.com/orlando-robinson
+Thomas Bryant,https://www.2kratings.com/thomas-bryant
+Alondes Williams,https://www.2kratings.com/alondes-williams
+Kevin Love,https://www.2kratings.com/kevin-love
+Duncan Robinson,https://www.2kratings.com/duncan-robinson
+Delon Wright,https://www.2kratings.com/delon-wright
