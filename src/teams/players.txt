@@ -156,3 +156,21 @@ Alondes Williams,https://www.2kratings.com/alondes-williams
 Kevin Love,https://www.2kratings.com/kevin-love
 Duncan Robinson,https://www.2kratings.com/duncan-robinson
 Delon Wright,https://www.2kratings.com/delon-wright
+Miles Bridges,https://www.2kratings.com/miles-bridges
+LaMelo Ball,https://www.2kratings.com/lamelo-ball
+Grant Williams,https://www.2kratings.com/grant-williams
+Nick Richards,https://www.2kratings.com/nick-richards
+Mark Williams,https://www.2kratings.com/mark-williams
+Bryce McGowens,https://www.2kratings.com/bryce-mcgowens
+Nick Smith Jr.,https://www.2kratings.com/nick-smith-jr
+Davis Bertans,https://www.2kratings.com/davis-bertans
+Amari Bailey,https://www.2kratings.com/amari-bailey
+Cody Martin,https://www.2kratings.com/cody-martin
+Leaky Black,https://www.2kratings.com/leaky-black
+Marques Bolden,https://www.2kratings.com/marques-bolden
+JT Thor,https://www.2kratings.com/jt-thor
+Tre Mann,https://www.2kratings.com/tre-mann
+Brandon Miller,https://www.2kratings.com/brandon-miller
+Vasilije Micic,https://www.2kratings.com/vasilije-micic
+Seth Curry,https://www.2kratings.com/seth-curry
+Nathan Mensah,https://www.2kratings.com/nathan-mensah
