@@ -330,3 +330,21 @@ Ben Sheppard,https://www.2kratings.com/ben-sheppard
 Myles Turner,https://www.2kratings.com/myles-turner
 Pascal Siakam,https://www.2kratings.com/pascal-siakam
 Oscar Tshiebwe,https://www.2kratings.com/oscar-tshiebwe
+Dereon Seabron,https://www.2kratings.com/dereon-seabron
+Zion Williamson,https://www.2kratings.com/zion-williamson
+CJ McCollum,https://www.2kratings.com/cj-mccollum
+Herbert Jones,https://www.2kratings.com/herbert-jones
+Naji Marshall,https://www.2kratings.com/naji-marshall
+Dyson Daniels,https://www.2kratings.com/dyson-daniels
+Brandon Ingram,https://www.2kratings.com/brandon-ingram
+Jose Alvarado,https://www.2kratings.com/jose-alvarado
+Jonas Valanciunas,https://www.2kratings.com/jonas-valanciunas
+Jalen Crutcher,https://www.2kratings.com/jalen-crutcher
+Larry Nance Jr.,https://www.2kratings.com/larry-nance-jr
+Jordan Hawkins,https://www.2kratings.com/jordan-hawkins
+Trey Murphy III,https://www.2kratings.com/trey-murphy
+E.J. Liddell,https://www.2kratings.com/ej-liddell
+Malcolm Hill,https://www.2kratings.com/malcolm-hill
+Matt Ryan,https://www.2kratings.com/matt-ryan
+Cody Zeller,https://www.2kratings.com/cody-zeller
+Jeremiah Robinson-Earl,https://www.2kratings.com/jeremiah-robinson-earl
