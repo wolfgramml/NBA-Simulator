@@ -348,3 +348,20 @@ Malcolm Hill,https://www.2kratings.com/malcolm-hill
 Matt Ryan,https://www.2kratings.com/matt-ryan
 Cody Zeller,https://www.2kratings.com/cody-zeller
 Jeremiah Robinson-Earl,https://www.2kratings.com/jeremiah-robinson-earl
+Jalen Duren,https://2kratings.com/jalen-duren
+Cade Cunningham,https://www.2kratings.com/cade-cunningham
+Shake Milton,https://www.2kratings.com/shake-milton
+Troy Brown Jr.,https://www.2kratings.com/troy-brown-jr
+Jared Rhoden,https://www.2kratings.com/jared-rhoden
+Ausar Thompson,https://www.2kratings.com/ausar-thompson
+James Wiseman,https://www.2kratings.com/james-wiseman
+Stanley Umude,https://www.2kratings.com/stanley-umude
+Malachi Flynn,https://www.2kratings.com/malachi-flynn
+Tosan Evbuomwan,https://www.2kratings.com/tosan-evbuomwan
+Simone Fontecchio,https://www.2kratings.com/simone-fontecchio
+Jaden Ivey,https://www.2kratings.com/jaden-ivey
+Quentin Grimes,https://www.2kratings.com/quentin-grimes
+Marcus Sasser,https://www.2kratings.com/marcus-sasser
+Buddy Boeheim,https://www.2kratings.com/buddy-boeheim
+Isaiah Stewart,https://www.2kratings.com/isaiah-stewart
+Evan Fournier,https://www.2kratings.com/evan-fournier
