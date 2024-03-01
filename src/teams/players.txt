@@ -295,3 +295,21 @@ Cam Thomas,https://www.2kratings.com/cam-thomas
 Dorian Finney-Smith,https://www.2kratings.com/dorian-finney-smith
 Nic Claxton,https://www.2kratings.com/nicolas-claxton
 Keon Johnson,https://www.2kratings.com/keon-johnson
+Christian Braun,https://2kratings.com/christian-braun
+Michael Porter Jr.,https://www.2kratings.com/michael-porter-jr
+Julian Strawther,https://www.2kratings.com/julian-strawther
+Hunter Tyson,https://www.2kratings.com/hunter-tyson
+Kentavious Caldwell-Pope,https://www.2kratings.com/kentavious-caldwell-pope
+DeAndre Jordan,https://www.2kratings.com/deandre-jordan
+Reggie Jackson,https://www.2kratings.com/reggie-jackson
+Peyton Watson,https://www.2kratings.com/peyton-watson
+Justin Holiday,https://www.2kratings.com/justin-holiday
+Braxton Key,https://www.2kratings.com/braxton-key
+Nikola Jokic,https://www.2kratings.com/nikola-jokic
+Collin Gillespie,https://www.2kratings.com/collin-gillespie
+Zeke Nnaji,https://www.2kratings.com/zeke-nnaji
+Jalen Pickett,https://www.2kratings.com/jalen-pickett
+Jamal Murray,https://www.2kratings.com/jamal-murray
+Jay Huff,https://www.2kratings.com/jay-huff
+Vlatko Cancar,https://www.2kratings.com/vlatko-cancar
+Aaron Gordon,https://www.2kratings.com/aaron-gordon
