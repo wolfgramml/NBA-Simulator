@@ -400,3 +400,20 @@ Reggie Bullock Jr.,https://www.2kratings.com/reggie-bullock
 Alperen Sengun,https://www.2kratings.com/alperen-sengun
 Jeff Green,https://www.2kratings.com/jeff-green
 Boban Marjanovic,https://www.2kratings.com/boban-marjanovic
+Victor Wembanyama,https://www.2kratings.com/victor-wembanyama
+Keldon Johnson,https://www.2kratings.com/keldon-johnson
+Devonte' Graham,https://www.2kratings.com/devonte-graham
+Jeremy Sochan,https://www.2kratings.com/jeremy-sochan
+Blake Wesley,https://www.2kratings.com/blake-wesley
+Cedi Osman,https://www.2kratings.com/cedi-osman
+Mamadi Diakite,https://www.2kratings.com/mamadi-diakite
+Malaki Branham,https://www.2kratings.com/malaki-branham
+Zach Collins,https://www.2kratings.com/zach-collins
+Devin Vassell,https://www.2kratings.com/devin-vassell
+Sidy Cissoko,https://www.2kratings.com/sidy-cissoko
+Dominick Barlow,https://www.2kratings.com/dominick-barlow
+Charles Bassey,https://2kratings.com/charles-bassey
+David Duke Jr.,https://www.2kratings.com/david-duke
+Julian Champagnie,https://www.2kratings.com/julian-champagnie
+Tre Jones,https://www.2kratings.com/tre-jones
+Sandro Mamukelashvili,https://www.2kratings.com/sandro-mamukelashvili
