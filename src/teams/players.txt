@@ -486,3 +486,20 @@ Jabari Walker,https://www.2kratings.com/jabari-walker
 Robert Williams III,https://www.2kratings.com/robert-williams-iii
 Ibou Badji,https://www.2kratings.com/ibou-badji
 Rayan Rupert,https://www.2kratings.com/rayan-rupert
+Gary Payton II,https://www.2kratings.com/gary-payton-ii
+Jonathan Kuminga,https://www.2kratings.com/jonathan-kuminga
+Brandin Podziemski,https://www.2kratings.com/brandin-podziemski
+Chris Paul,https://www.2kratings.com/chris-paul
+Moses Moody,https://www.2kratings.com/moses-moody
+Kevon Looney,https://www.2kratings.com/kevon-looney
+Klay Thompson,https://www.2kratings.com/klay-thompson
+Usman Garuba,https://www.2kratings.com/usman-garuba
+Gui Santos,https://www.2kratings.com/gui-santos
+Jerome Robinson,https://www.2kratings.com/jerome-robinson
+Dario Saric,https://www.2kratings.com/dario-saric
+Andrew Wiggins,https://www.2kratings.com/andrew-wiggins
+Draymond Green,https://www.2kratings.com/draymond-green
+Lester Quinones,https://www.2kratings.com/lester-quinones
+Stephen Curry,https://www.2kratings.com/stephen-curry
+Trayce Jackson-Davis,https://www.2kratings.com/trayce-jackson-davis
+Pat Spencer,https://www.2kratings.com/pat-spencer
