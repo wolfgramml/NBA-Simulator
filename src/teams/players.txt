@@ -468,3 +468,21 @@ Rudy Gobert,https://www.2kratings.com/rudy-gobert
 Karl-Anthony Towns,https://www.2kratings.com/karl-anthony-towns
 Leonard Miller,https://www.2kratings.com/leonard-miller
 Luka Garza,https://www.2kratings.com/luka-garza
+Scoot Henderson,https://www.2kratings.com/scoot-henderson
+Anfernee Simons,https://www.2kratings.com/anfernee-simons
+Deandre Ayton,https://www.2kratings.com/deandre-ayton
+Matisse Thybulle,https://www.2kratings.com/matisse-thybulle
+Dalano Banton,https://www.2kratings.com/dalano-banton
+Kris Murray,https://www.2kratings.com/kris-murray
+Jerami Grant,https://www.2kratings.com/jerami-grant
+Moses Brown,https://www.2kratings.com/moses-brown
+Malcolm Brogdon,https://www.2kratings.com/malcolm-brogdon
+Shaedon Sharpe,https://www.2kratings.com/shaedon-sharpe
+Ashton Hagans,https://www.2kratings.com/ashton-hagans
+Justin Minaya,https://www.2kratings.com/justin-minaya
+Duop Reath,https://www.2kratings.com/duop-reath
+Toumani Camara,https://www.2kratings.com/toumani-camara
+Jabari Walker,https://www.2kratings.com/jabari-walker
+Robert Williams III,https://www.2kratings.com/robert-williams-iii
+Ibou Badji,https://www.2kratings.com/ibou-badji
+Rayan Rupert,https://www.2kratings.com/rayan-rupert
