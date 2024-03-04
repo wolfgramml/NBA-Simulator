@@ -452,3 +452,19 @@ Olivier Sarr,https://www.2kratings.com/olivier-sarr
 Gordon Hayward,https://www.2kratings.com/gordon-hayward
 Kenrich Williams,https://www.2kratings.com/kenrich-williams
 Mike Muscala,https://www.2kratings.com/mike-muscala
+Jaylen Clark,https://www.2kratings.com/jaylen-clark
+Kyle Anderson,https://www.2kratings.com/kyle-anderson
+Jaden McDaniels,https://www.2kratings.com/jaden-mcdaniels
+Anthony Edwards,https://www.2kratings.com/anthony-edwards
+Jordan McLaughlin,https://www.2kratings.com/jordan-mclaughlin
+Wendell Moore Jr.,https://www.2kratings.com/wendell-moore
+Josh Minott,https://www.2kratings.com/josh-minott
+Nickeil Alexander-Walker,https://www.2kratings.com/nickeil-alexander-walker
+Mike Conley,https://www.2kratings.com/mike-conley
+Naz Reid,https://www.2kratings.com/naz-reid
+Daishen Nix,https://www.2kratings.com/daishen-nix
+Monte Morris,https://www.2kratings.com/monte-morris
+Rudy Gobert,https://www.2kratings.com/rudy-gobert
+Karl-Anthony Towns,https://www.2kratings.com/karl-anthony-towns
+Leonard Miller,https://www.2kratings.com/leonard-miller
+Luka Garza,https://www.2kratings.com/luka-garza
