@@ -45,5 +45,6 @@ public class CalculationUtils {
         }
         teams.get(awayTeam).displayRecord();
         teams.get(homeTeam).displayRecord();
+        scanner.close();
     }
 }

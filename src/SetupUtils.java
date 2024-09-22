@@ -18,6 +18,7 @@ public class SetupUtils {
             conference = scanner.nextLine();
             division = scanner.nextLine();
             newTeam = new Team(teamName, conference, division);
+            scanner.close();
         } catch (FileNotFoundException e) {
             System.err.println(e.getMessage());
         }

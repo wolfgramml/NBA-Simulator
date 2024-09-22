@@ -21,6 +21,6 @@ public class Driver {
             System.out.println("What team's record would you like to view? Enter -1 to quit.");
             teamNum = scanner.nextInt();
         }
-
+        scanner.close();
     }
 }
