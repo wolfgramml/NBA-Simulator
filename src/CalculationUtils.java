@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
@@ -46,5 +47,48 @@ public class CalculationUtils {
         teams.get(awayTeam).displayRecord();
         teams.get(homeTeam).displayRecord();
         scanner.close();
+    }
+
+    public static void calculateStandings() {
+        final List<Team> allTeams = SetupUtils.getTeams();
+        final List<Team> eastTeams = new ArrayList<>();
+        final List<Team> westTeams = new ArrayList<>();
+        for (final Team team : allTeams) {
+            boolean added = false;
+            if (team.getConference().equals("Eastern")) {
+                for (int i = 0; i < eastTeams.size(); i++) {
+                   if(team.getWins() > eastTeams.get(i).getWins()) {
+                       eastTeams.add(i, team);
+                       added = true;
+                       break;
+                   }
+                }
+                if (!added) {
+                    eastTeams.add(team);
+                }
+            } else if (team.getConference().equals("Western")) {
+                for (int i = 0; i < westTeams.size(); i++) {
+                    if(team.getWins() > westTeams.get(i).getWins()) {
+                        westTeams.add(i, team);
+                        added = true;
+                        break;
+                    }
+                }
+                if (!added) {
+                    westTeams.add(team);
+                }
+            }
+        }
+        System.out.println("East Standings:");
+        for(int i = 1; i <= eastTeams.size(); i++) {
+            System.out.print(i + ". ");
+            eastTeams.get(i - 1).displayRecord();
+        }
+        System.out.println("----------------------------------");
+        System.out.println("West Standings:");
+        for(int i = 1; i <= westTeams.size(); i++) {
+            System.out.print(i + ". ");
+            westTeams.get(i - 1).displayRecord();
+        }
     }
 }

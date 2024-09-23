@@ -3,11 +3,7 @@
 <p>This is a long term project with the intention of creating a simulator to simulate real life NBA teams and players.</p>
 
 ## TODO
-<p>Here is a list of features that are yet to be implemented:</p> 
-<p>Teams</p>
-
-- [ ] Keep track of standings
-
+<p>Here is a list of features that are yet to be implemented:</p>
 <p>Players</p>
 
 - [ ] Add all necessary data to corresponding team's txt file
@@ -49,7 +45,7 @@
     - [ ] Generating new players
     - [ ] Player development
 - [ ] Automatically updating rosters to reflect real life
-- [ ] Save results to view later or to resume simulation
+- [ ] Save state to view later or to resume simulation
 - [ ] More features
   - [ ] Injuries
   - [ ] Trades
@@ -64,3 +60,4 @@
 - Created matchups for each team
 - Added all players' names to associated team's txt file
 - Ensured each team has 41 home games and 41 away games
+- Created a method to calculate the standings at any given time

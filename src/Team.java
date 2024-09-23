@@ -63,6 +63,10 @@ public class Team {
         return name;
     }
 
+    public int getWins() {
+        return wins;
+    }
+
     public String getConference() {
         return conference;
     }

@@ -11,16 +11,17 @@ public class Driver {
 
         Scanner scanner = new Scanner(System.in);
         int teamNum;
-        SetupUtils.display();
-        System.out.println("What team's record would you like to view? Enter -1 to quit.");
-        teamNum = scanner.nextInt();
-        while(teamNum != -1) {
-            teams.get(teamNum-1).displayRecord();
-            System.out.println("----------------------------------");
-            SetupUtils.display();
-            System.out.println("What team's record would you like to view? Enter -1 to quit.");
-            teamNum = scanner.nextInt();
-        }
+        // SetupUtils.display();
+        // System.out.println("What team's record would you like to view? Enter -1 to quit.");
+        // teamNum = scanner.nextInt();
+        // while(teamNum != -1) {
+        //     teams.get(teamNum-1).displayRecord();
+        //     System.out.println("----------------------------------");
+        //     SetupUtils.display();
+        //     System.out.println("What team's record would you like to view? Enter -1 to quit.");
+        //     teamNum = scanner.nextInt();
+        // }
         scanner.close();
+        CalculationUtils.calculateStandings();
     }
 }
