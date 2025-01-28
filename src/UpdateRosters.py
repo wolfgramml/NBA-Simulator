@@ -1,7 +1,10 @@
 import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import os
 import time
+import random
+import unidecode
 
 player_links = {}
 
@@ -9,7 +12,7 @@ player_links = {}
 file_path = os.path.join(os.path.dirname(__file__), 'teams', 'players.txt')
 
 # Open the text file for reading
-with open(file_path, 'r') as file:
+with open(file_path, 'r', encoding='utf-8') as file:
     # Iterate through each line in the file
     for line in file:
         # Split the line by comma to separate player name and link
@@ -88,13 +91,13 @@ team_descriptions = {
 
 
 def get_team_data(url, file_name):
-
     try:
+        time.sleep(1)
         headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Accept-Language': 'en-US,en;q=0.9',
-    }
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Accept-Language': 'en-US,en;q=0.9',
+        }
         response = requests.get(url, headers=headers)
         html_content = response.text
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -106,7 +109,7 @@ def get_team_data(url, file_name):
         player_name_elements = roster_div.find_all('a', class_='Anchor_anchor__cSc3P')
 
         # Extract player names
-        player_names = [element.text.strip() for element in player_name_elements]
+        player_names = [unidecode.unidecode(element.text.strip()) for element in player_name_elements]
 
         team_name_parts = soup.find('div', class_='TeamHeader_name__MmHlP').find_all('div')
 
@@ -119,54 +122,46 @@ def get_team_data(url, file_name):
         with open(file_path, 'w') as file:
             file.write(team_name + "\n" + team_descriptions.get(url) + "\n" + coach_name + "\n")
 
+        print(f"Working on {team_name}...")
+
         # Print the extracted player names
         for name in player_names:
             try:
                 url = player_links[name]
-                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-                response = requests.get(url, headers=headers)  
+                scraper = cloudscraper.create_scraper()
+                response = scraper.get(url)
                 if response.status_code == 200:
                     html_content = response.text
-
-                    # Parse the HTML content using BeautifulSoup
                     soup = BeautifulSoup(html_content, 'html.parser')
 
                     # Find all <span> elements with class containing "attribute-box"
                     attribute_spans = soup.find_all('span', class_='attribute-box')
 
-                    # Indices of the desired attribute elements (0-based)
-                    desired_indices = [0, 7, 15, 24, 42, 43, 30, 39]
-
-                    # Extract the attribute values corresponding to the desired indices
-                    attribute_values = [int(attribute_spans[index].text.strip()) for index in desired_indices if index < len(attribute_spans)]
-
-                    # Calculate offensive rating
-                    offensive_rating = round(sum(attribute_values[:6]) / 6)
-
-                    # Calculate defensive rating
-                    defensive_rating = round(sum(attribute_values[6:]) / 2)
-
-                    # Extract player's name
-                    player_name_element = soup.find('h1', class_='header-title')
-                    player_name = player_name_element.text.strip() if player_name_element else "Unknown Player"
+                    outside_scoring = int(attribute_spans[0].text.strip())
+                    athleticism = int(attribute_spans[7].text.strip())
+                    inside_scoring = int(attribute_spans[15].text.strip())
+                    playmaking = int(attribute_spans[24].text.strip())
+                    defensive_rating = int(attribute_spans[30].text.strip())
+                    rebounding = int(attribute_spans[38].text.strip())
+                    intangibles = int(attribute_spans[41].text.strip())
+                    potential = int(attribute_spans[42].text.strip())
                     
                     # Write data to a text file
-                    with open(file_path, 'a') as file:
-                        file.write(f"{name},{offensive_rating},{defensive_rating}\n")
+                    with open(file_path, 'a', encoding='utf-8') as file:
+                        file.write(f"{name},{outside_scoring},{inside_scoring},{athleticism},{playmaking},{defensive_rating},{rebounding},{intangibles},{potential}\n")
 
-                    # print(name + "'s data written to test.txt successfully.")
-                    time.sleep(0.5)
-                elif (response.status_code == 520):
-                    print("Error: unable to get data for " + name + ". Skipping...")
+                    time.sleep(random.uniform(1, 3))
+                else:
+                    print(f"Error fetching webpage for player '{name}': {response.status_code}. Skipping...")
             
             except KeyError:
                 print(f"Player '{name}' not found in player_links dictionary.")
-            except requests.RequestException as e:
-                print("Error fetching webpage:", e)
             except ValueError:
                 print(f"Invalid input for player '{name}'. Skipping...")
+            except Exception as e:
+                print(f"Error processing player '{name}': {e}. Skipping...")
 
-    except requests.RequestException as e:
+    except Exception as e:
         print("Error fetching webpage:", e)
 
 for url, filename in url_file_mapping.items():
