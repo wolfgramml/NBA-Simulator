@@ -87,8 +87,8 @@ Neemias Queta,https://www.2kratings.com/neemias-queta
 Russell Westbrook,https://www.2kratings.com/russell-westbrook
 James Harden,https://www.2kratings.com/james-harden
 Kawhi Leonard,https://www.2kratings.com/kawhi-leonard
-Brandon Boston Jr.,https://www.2kratings.com/brandon-boston-jr
-Bones Hyland,https://www.2kratings.com/bones-hyland
+Brandon Boston,https://www.2kratings.com/brandon-boston-jr
+Bones Hyland,https://www.2kratings.com/nahshon-hyland
 Amir Coffey,https://www.2kratings.com/amir-coffey
 Daniel Theis,https://www.2kratings.com/daniel-theis
 Jordan Miller,https://www.2kratings.com/jordan-miller
@@ -119,7 +119,7 @@ Lamar Stevens,https://www.2kratings.com/lamar-stevens
 Marcus Smart,https://www.2kratings.com/marcus-smart
 GG Jackson,https://www.2kratings.com/gregory-jackson-ii
 John Konchar,https://www.2kratings.com/john-konchar
-Trey Jemison,https://www.2kratings.com/trey-jemison
+Trey Jemison III,https://www.2kratings.com/trey-jemison
 Jalen Johnson,https://2kratings.com/jalen-johnson
 Trent Forrest,https://www.2kratings.com/trent-forrest
 Seth Lundy,https://www.2kratings.com/seth-lundy
@@ -317,7 +317,7 @@ Tyrese Haliburton,https://www.2kratings.com/tyrese-haliburton
 Bennedict Mathurin,https://www.2kratings.com/bennedict-mathurin
 Obi Toppin,https://www.2kratings.com/obi-toppin
 Andrew Nembhard,https://www.2kratings.com/andrew-nembhard
-Jarace Walker,https://www.2kratings.com/jerace-walker
+Jarace Walker,https://www.2kratings.com/jarace-walker
 T.J. McConnell,https://www.2kratings.com/tj-mcconnell
 Kendall Brown,https://www.2kratings.com/kendall-brown
 James Johnson,https://www.2kratings.com/james-johnson
@@ -557,10 +557,10 @@ Luke Travers,https://www.2kratings.com/luke-travers
 Baylor Scheierman,https://www.2kratings.com/baylor-scheierman
 Anton Watson,https://www.2kratings.com/anton-watson
 Dmytro Skapintsev,https://www.2kratings.com/dmytro-skapintsev
-Ron Harper Jr,https://www.2kratings.com/ron-harper-jr
+Ron Harper Jr.,https://www.2kratings.com/ron-harper-jr
 Trentyn Flowers,https://www.2kratings.com/trentyn-flowers
 Cam Christie,https://www.2kratings.com/cam-christie
-Kevin Porter Jr,https://www.2kratings.com/kevin-porter-jr
+Kevin Porter Jr.,https://www.2kratings.com/kevin-porter-jr
 Zach Edey,https://www.2kratings.com/zach-edey
 Jaylen Wells,https://www.2kratings.com/jaylen-wells
 Cam Spencer,https://www.2kratings.com/cam-spencer
@@ -623,7 +623,7 @@ Dillon Jones,https://www.2kratings.com/dillon-jones
 Ajay Mitchell,https://www.2kratings.com/ajay-mitchell
 Nikola Topic,https://www.2kratings.com/nikola-topic
 Jesse Edwards,https://www.2kratings.com/jesse-edwards
-Terrence Shannon,https://www.2kratings.com/terrence-shannon
+Terrence Shannon Jr.,https://www.2kratings.com/terrence-shannon
 Rob Dillingham,https://www.2kratings.com/rob-dillingham
 T.J. Warren,https://www.2kratings.com/tj-warren
 PJ Dozier,https://www.2kratings.com/pj-dozier
@@ -635,3 +635,20 @@ Daeqwon Plowden,https://www.2kratings.com/daeqwon-plowden
 Tristan Vukcevic,https://www.2kratings.com/tristan-vukcevic
 Alexandre Sarr,https://www.2kratings.com/alexandre-sarr
 Kyshawn George,https://www.2kratings.com/kyshawn-george
+Liam Robbins,https://www.2kratings.com/liam-robbins
+Emanuel Miller,https://www.2kratings.com/emanuel-miller
+Yuki Kawamura,https://www.2kratings.com/yuki-kawamura
+Isaiah Stevens,https://www.2kratings.com/isaiah-stevens
+KJ Simpson,https://www.2kratings.com/kj-simpson
+Elijah Harkless,https://www.2kratings.com/elijah-harkless
+Kevin McCullar Jr.,https://www.2kratings.com/kevin-mccullar
+Mac McClung,https://www.2kratings.com/mac-mcclung
+Jazian Gortman,https://www.2kratings.com/jazian-gortman
+Tyrese Martin,https://www.2kratings.com/tyrese-martin
+RayJ Dennis,https://www.2kratings.com/rayj-dennis
+Keion Brooks Jr.,https://www.2kratings.com/keion-brooks-jr
+Tolu Smith,https://www.2kratings.com/tolu-smith
+Jamison Battle,https://www.2kratings.com/jamison-battle
+Riley Minix,https://www.2kratings.com/riley-minix
+Bub Carrington,https://www.2kratings.com/bub-carrington
+Alex Sarr,https://www.2kratings.com/alexandre-sarr
