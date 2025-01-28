@@ -2,19 +2,20 @@ New York Knicks
 Eastern
 Atlantic
 Tom Thibodeau
-Donte DiVincenzo
-Jacob Toppin
-Alec Burks
-Bojan Bogdanovic
-Miles McBride
-Josh Hart
-Duane Washington Jr.
-Precious Achiuwa
-OG Anunoby
-Jalen Brunson
-Mitchell Robinson
-Julius Randle
-Charlie Brown Jr.
-Jericho Sims
-Isaiah Hartenstein
-Taj Gibson
+Jacob Toppin,60,60,74,55,58,55,30,76
+Cameron Payne,77,47,72,77,50,41,60,78
+Miles McBride,82,55,78,75,64,44,85,79
+Josh Hart,82,62,83,76,73,74,80,84
+Pacome Dadiet,64,56,73,59,55,48,50,79
+Precious Achiuwa,61,66,79,47,69,85,60,79
+OG Anunoby,74,60,82,57,84,49,75,87
+Kevin McCullar Jr.,66,63,77,60,62,50,50,78
+Jalen Brunson,89,66,82,90,59,38,75,92
+Tyler Kolek,77,52,78,76,57,43,75,79
+Jericho Sims,51,67,80,32,53,80,40,76
+Mitchell Robinson,58,70,77,43,74,83,50,82
+Mikal Bridges,82,65,85,73,75,40,80,87
+Karl-Anthony Towns,91,86,81,66,59,85,98,93
+Matt Ryan,72,53,69,57,45,41,30,71
+Landry Shamet,82,53,77,72,47,35,40,76
+Ariel Hukporti,56,61,68,41,51,58,90,71

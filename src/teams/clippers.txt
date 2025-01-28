@@ -1,22 +1,22 @@
-Los Angeles Clippers
+LA Clippers
 Western
 Pacific
 Tyronn Lue
-Russell Westbrook
-James Harden
-Kawhi Leonard
-Brandon Boston Jr.
-Bones Hyland
-Amir Coffey
-Daniel Theis
-Jordan Miller
-Joshua Primo
-Paul George
-Terance Mann
-P.J. Tucker
-Kobe Brown
-Xavier Moon
-Norman Powell
-Moussa Diabate
-Ivica Zubac
-Mason Plumlee
+James Harden,76,73,88,88,66,52,50,93
+Kawhi Leonard,90,81,85,79,83,56,90,96
+Mo Bamba,62,67,74,39,67,75,65,76
+Bones Hyland,78,54,75,75,60,42,50,80
+Amir Coffey,80,60,72,66,52,42,50,76
+Kris Dunn,78,54,81,78,74,50,60,77
+Trentyn Flowers,60,61,75,61,51,51,40,77
+Jordan Miller,74,57,76,64,49,54,95,75
+Cam Christie,66,54,75,65,48,45,50,82
+Terance Mann,68,62,75,71,58,52,95,76
+P.J. Tucker,65,54,80,55,69,58,40,78
+Kobe Brown,69,65,74,56,55,54,60,80
+Kai Jones,68,53,72,42,70,66,35,77
+Norman Powell,86,56,79,70,64,40,60,84
+Nicolas Batum,72,59,78,65,61,51,40,77
+Ivica Zubac,73,82,69,45,55,90,90,85
+Derrick Jones Jr.,75,71,81,56,72,51,90,78
+Kevin Porter Jr.,71,64,76,80,57,55,60,79

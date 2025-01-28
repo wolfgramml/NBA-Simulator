@@ -1,22 +1,21 @@
 Detroit Pistons
 Eastern
 Central
-Monty Williams
-Tosan Evbuomwan
-Jalen Duren
-Cade Cunningham
-Shake Milton
-Troy Brown Jr.
-Jared Rhoden
-Ausar Thompson
-James Wiseman
-Stanley Umude
-Malachi Flynn
-Simone Fontecchio
-Malcolm Cazalon
-Jaden Ivey
-Quentin Grimes
-Marcus Sasser
-Isaiah Stewart
-Evan Fournier
-Mike Muscala
+J.B. Bickerstaff
+Jalen Duren,68,77,81,55,65,89,60,84
+Ronald Holland II,75,57,79,61,59,56,95,83
+Cade Cunningham,88,72,82,85,66,55,95,93
+Malik Beasley,84,62,78,65,49,43,75,80
+Paul Reed,72,73,69,48,64,64,60,75
+Tim Hardaway Jr.,77,58,75,68,48,36,60,79
+Ausar Thompson,58,64,86,75,78,71,40,84
+Tobias Harris,75,76,78,66,59,59,70,83
+Ron Harper Jr.,68,54,70,56,51,40,40,71
+Wendell Moore Jr.,76,60,78,60,67,62,80,80
+Simone Fontecchio,79,58,70,52,51,52,65,76
+Jaden Ivey,74,63,83,83,61,51,90,83
+Daniss Jenkins,68,50,72,69,53,45,40,70
+Marcus Sasser,83,48,75,74,62,39,55,83
+Isaiah Stewart,75,74,78,45,61,76,40,79
+Bobi Klintman,67,61,74,63,60,46,60,79
+Tolu Smith,52,66,67,41,51,70,50,72

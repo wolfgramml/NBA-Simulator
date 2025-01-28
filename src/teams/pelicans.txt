@@ -2,19 +2,20 @@ New Orleans Pelicans
 Western
 Southwest
 Willie Green
-Dereon Seabron
-Zion Williamson
-CJ McCollum
-Herbert Jones
-Naji Marshall
-Dyson Daniels
-Brandon Ingram
-Jose Alvarado
-Jonas Valanciunas
-Larry Nance Jr.
-Jordan Hawkins
-Trey Murphy III
-E.J. Liddell
-Matt Ryan
-Cody Zeller
-Jeremiah Robinson-Earl
+Keion Brooks Jr.,64,60,73,59,47,41,45,72
+Zion Williamson,74,90,86,73,57,71,55,91
+Herbert Jones,75,67,78,68,80,46,50,84
+CJ McCollum,84,56,83,80,55,43,85,87
+Javonte Green,70,63,73,60,74,51,85,77
+Dejounte Murray,77,65,75,84,77,55,80,86
+Jamal Cain,72,63,72,48,57,61,60,71
+Daniel Theis,61,66,75,53,66,69,50,78
+Brandon Boston,80,51,75,73,53,47,95,78
+Antonio Reeves,76,52,73,62,44,46,75,77
+Brandon Ingram,86,79,75,76,59,52,50,88
+Jose Alvarado,75,45,74,73,73,40,70,79
+Karlo Matkovic,66,66,69,49,58,67,70,75
+Yves Missi,56,67,80,36,61,82,95,82
+Jordan Hawkins,78,54,72,64,56,44,60,80
+Trey Murphy III,83,62,80,59,62,48,85,84
+Jeremiah Robinson-Earl,73,68,71,58,52,71,98,78

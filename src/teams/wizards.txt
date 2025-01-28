@@ -2,20 +2,21 @@ Washington Wizards
 Eastern
 Southeast
 Brian Keefe
-Bilal Coulibaly
-Richaun Holmes
-Johnny Davis
-Jared Butler
-Tyus Jones
-Patrick Baldwin Jr.
-Deni Avdija
-Isaiah Livers
-Jordan Poole
-Jules Bernard
-Anthony Gill
-Landry Shamet
-Corey Kispert
-Kyle Kuzma
-Marvin Bagley III
-Delon Wright
-Eugene Omoruyi
+Bilal Coulibaly,77,64,81,65,71,51,75,87
+Tristan Vukcevic,72,66,71,49,52,63,40,78
+Johnny Davis,67,61,74,65,68,53,85,83
+Jared Butler,78,53,76,82,47,39,75,76
+Patrick Baldwin Jr.,73,61,70,52,54,63,65,79
+Bub Carrington,80,59,76,74,45,46,95,83
+Justin Champagnie,78,61,74,58,58,68,90,75
+Jordan Poole,80,60,74,81,56,38,95,86
+Saddiq Bey,76,61,77,61,62,63,35,80
+Malcolm Brogdon,81,64,80,83,64,52,40,83
+Anthony Gill,69,65,75,46,53,52,80,73
+Jonas Valanciunas,81,78,72,48,61,86,60,84
+Kyshawn George,71,57,72,62,59,50,95,83
+Alex Sarr,76,72,76,64,72,65,95,87
+Richaun Holmes,63,71,76,45,56,84,55,79
+Corey Kispert,82,52,75,61,58,42,70,79
+Kyle Kuzma,76,76,80,67,56,54,85,84
+Marvin Bagley III,66,79,81,53,62,78,50,79

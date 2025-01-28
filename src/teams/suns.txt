@@ -1,20 +1,21 @@
 Phoenix Suns
 Western
 Pacific
-Frank Vogel
-Royce O'Neale
-David Roddy
-Devin Booker
-Josh Okogie
-Bradley Beal
-Grayson Allen
-Theo Maledon
-Damion Lee
-Bol Bol
-Drew Eubanks
-Jusuf Nurkic
-Eric Gordon
-Nassir Little
-Udoka Azubuike
-Kevin Durant
-Saben Lee
+Mike Budenholzer
+Royce O'Neale,75,63,74,61,69,60,60,77
+Ryan Dunn,65,54,82,57,73,52,70,83
+Devin Booker,90,79,82,89,63,44,70,96
+Bradley Beal,83,69,81,78,57,43,45,90
+Oso Ighodaro,59,67,81,59,53,66,60,79
+Nick Richards,65,64,76,39,61,82,75,78
+Grayson Allen,75,55,76,70,57,47,75,78
+Damion Lee,83,59,72,58,50,50,40,74
+Bol Bol,79,71,68,50,57,75,40,78
+Collin Gillespie,72,52,73,74,52,40,40,76
+TyTy Washington Jr.,73,49,79,73,54,40,65,75
+Jalen Bridges,64,58,74,56,51,46,50,77
+Jusuf Nurkic,72,74,68,50,65,83,50,82
+Tyus Jones,87,50,71,80,53,39,95,81
+Mason Plumlee,63,75,73,58,65,80,70,79
+Monte Morris,74,51,75,85,49,43,60,79
+Kevin Durant,90,85,82,81,73,52,75,99

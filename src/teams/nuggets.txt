@@ -2,21 +2,21 @@ Denver Nuggets
 Western
 Northwest
 Michael Malone
-Christian Braun
-Michael Porter Jr.
-Julian Strawther
-Hunter Tyson
-Kentavious Caldwell-Pope
-DeAndre Jordan
-Reggie Jackson
-Peyton Watson
-Justin Holiday
-Braxton Key
-Nikola Jokic
-Collin Gillespie
-Zeke Nnaji
-Jalen Pickett
-Jamal Murray
-Jay Huff
-Vlatko Cancar
-Aaron Gordon
+Christian Braun,82,56,80,63,66,48,75,83
+Michael Porter Jr.,85,68,79,65,54,57,50,85
+Julian Strawther,83,56,71,59,60,41,95,82
+Russell Westbrook,74,63,88,83,65,54,85,85
+Hunter Tyson,70,59,73,58,52,57,50,79
+DeAndre Jordan,43,56,80,39,60,83,80,75
+Peyton Watson,76,58,77,60,74,49,80,80
+Dario Saric,69,72,72,65,63,69,40,77
+PJ Hall,64,65,75,51,52,56,50,77
+DaRon Holmes II,65,69,74,52,66,64,50,79
+Nikola Jokic,92,91,78,85,73,89,75,99
+Spencer Jones,66,54,67,55,47,35,50,71
+Zeke Nnaji,63,72,80,39,56,47,50,78
+Trey Alexander,70,45,70,68,41,40,70,75
+Jalen Pickett,72,58,72,72,54,56,75,75
+Jamal Murray,77,65,79,82,64,42,75,88
+Vlatko Cancar,77,55,71,53,59,50,60,74
+Aaron Gordon,80,80,85,61,69,62,65,82

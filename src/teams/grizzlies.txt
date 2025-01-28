@@ -2,22 +2,21 @@ Memphis Grizzlies
 Western
 Southwest
 Taylor Jenkins
-Jacob Gilyard
-Yuta Watanabe
-Lamar Stevens
-Jordan Goodwin
-Scotty Pippen Jr.
-Jake LaRavia
-Vince Williams Jr.
-Santi Aldama
-Ziaire Williams
-Luke Kennard
-Ja Morant
-Jaren Jackson Jr.
-Brandon Clarke
-Desmond Bane
-Derrick Rose
-Marcus Smart
-GG Jackson
-John Konchar
-Trey Jemison
+Zyon Pullin,68,48,74,73,49,40,50,77
+Jaylen Wells,82,57,77,62,45,47,85,84
+Scotty Pippen Jr.,79,51,74,82,53,49,95,79
+Jake LaRavia,83,66,74,66,56,60,95,79
+Vince Williams Jr.,75,56,76,66,69,59,70,77
+Santi Aldama,82,70,70,53,59,70,90,80
+Luke Kennard,77,52,71,73,44,46,75,77
+Ja Morant,82,72,88,95,65,49,60,96
+Jaren Jackson Jr.,87,82,81,46,84,59,95,90
+Zach Edey,72,73,69,44,63,85,90,85
+Brandon Clarke,63,73,83,57,72,71,75,79
+Yuki Kawamura,66,39,73,79,40,38,50,70
+Desmond Bane,87,61,78,72,68,55,75,84
+Cam Spencer,72,49,71,66,49,50,50,77
+Jay Huff,77,67,66,44,55,54,95,76
+Marcus Smart,69,50,84,74,83,44,70,82
+GG Jackson,74,72,76,57,56,53,50,82
+John Konchar,71,54,73,65,58,71,60,76

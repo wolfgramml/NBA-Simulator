@@ -2,20 +2,20 @@ Dallas Mavericks
 Western
 Southwest
 Jason Kidd
-Dante Exum
-Brandom Williams
-P.J. Washington
-Daniel Gafford
-Jaden Hardy
-Dereck Lively II
-Dwight Powell
-Josh Green
-A.J. Lawson
-Tim Hardaway Jr.
-Kyrie Irving
-Olivier-Maxence Prosper
-Greg Brown III
-Maxi Kleber
-Derrick Jones Jr.
-Luka Doncic
-Markieff Morris
+Dante Exum,77,54,76,75,57,47,30,75
+Jaden Hardy,76,62,77,71,48,40,70,80
+Dereck Lively II,74,71,71,58,65,84,90,85
+Quentin Grimes,79,57,79,66,66,54,80,80
+Dwight Powell,64,77,78,53,68,64,45,79
+Olivier-Maxence Prosper,61,59,79,57,60,72,70,80
+Brandon Williams,70,55,76,76,51,45,50,75
+Kyrie Irving,92,63,79,86,60,46,75,92
+Naji Marshall,85,66,71,65,52,49,85,80
+Kessler Edwards,61,59,75,54,64,51,50,75
+Daniel Gafford,70,74,78,38,68,80,75,83
+P.J. Washington,75,75,77,57,57,62,90,81
+Spencer Dinwiddie,70,63,77,83,58,39,70,81
+Klay Thompson,76,56,78,58,69,44,30,90
+Maxi Kleber,64,68,72,55,68,53,30,76
+Luka Doncic,90,86,86,94,71,71,75,99
+Markieff Morris,71,66,73,47,54,55,30,77

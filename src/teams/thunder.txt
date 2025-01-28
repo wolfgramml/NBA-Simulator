@@ -2,21 +2,21 @@ Oklahoma City Thunder
 Western
 Northwest
 Mark Daigneault
-Shai Gilgeous-Alexander
-Josh Giddey
-Luguentz Dort
-Jaylin Williams
-Chet Holmgren
-Jalen Williams
-Isaiah Joe
-Lindy Waters III
-Ousmane Dieng
-Adam Flagler
-Bismack Biyombo
-Aleksej Pokusevski
-Keyontae Johnson
-Aaron Wiggins
-Cason Wallace
-Olivier Sarr
-Gordon Hayward
-Kenrich Williams
+Shai Gilgeous-Alexander,93,77,85,93,84,49,98,98
+Dillon Jones,62,58,78,63,56,66,45,77
+Luguentz Dort,64,61,85,61,83,51,40,80
+Jaylin Williams,78,68,67,60,61,67,60,79
+Chet Holmgren,86,80,75,59,79,73,75,94
+Jalen Williams,90,70,81,79,72,52,98,91
+Alex Caruso,66,51,76,74,84,48,50,82
+Isaiah Joe,84,57,74,62,54,44,40,77
+Ousmane Dieng,71,58,78,64,63,61,85,82
+Adam Flagler,72,50,72,61,45,35,80,71
+Branden Carlson,65,65,60,39,39,56,60,70
+Aaron Wiggins,78,63,73,64,55,52,85,79
+Cason Wallace,75,54,78,69,74,47,80,82
+Ajay Mitchell,84,52,75,72,52,45,70,82
+Kenrich Williams,76,63,75,62,71,64,95,78
+Nikola Topic,72,58,75,81,51,40,60,84
+Isaiah Hartenstein,75,72,76,55,66,82,95,85
+Alex Ducas,67,51,73,59,49,43,40,71

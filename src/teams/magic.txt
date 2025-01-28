@@ -2,21 +2,20 @@ Orlando Magic
 Eastern
 Southeast
 Jamahl Mosley
-Anthony Black
-Jonathon Isaac
-Caleb Houstan
-Chuman Okeke
-Jalen Suggs
-Paolo Banchero
-Joe Ingles
-Kevon Harris
-Trevelin Queen
-Jett Howard
-Gary Harris
-Markelle Fultz
-Moritz Wagner
-Franz Wagner
-Admiral Schofield
-Wendell Carter Jr.
-Goga Bitadze
-Cole Anthony
+Anthony Black,78,62,78,78,64,45,95,84
+Jonathan Isaac,59,65,76,58,82,78,50,79
+Caleb Houstan,71,43,73,60,64,40,85,78
+Kentavious Caldwell-Pope,75,55,80,70,74,36,50,78
+Jalen Suggs,80,64,83,81,78,50,70,85
+Paolo Banchero,85,86,82,75,58,70,80,94
+Mac McClung,66,56,75,73,50,48,70,70
+Cory Joseph,76,45,71,77,63,49,60,75
+Trevelin Queen,76,57,79,65,66,41,75,74
+Jett Howard,74,58,74,62,54,45,75,82
+Gary Harris,73,56,76,65,67,41,45,76
+Moritz Wagner,83,70,78,51,53,75,60,79
+Franz Wagner,87,74,76,79,68,54,95,90
+Tristan da Silva,75,64,77,60,53,54,80,80
+Wendell Carter Jr.,72,80,76,54,65,75,40,83
+Goga Bitadze,81,67,70,59,58,88,95,82
+Cole Anthony,74,62,82,81,53,56,50,81

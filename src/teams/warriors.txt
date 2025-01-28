@@ -2,19 +2,19 @@ Golden State Warriors
 Western
 Pacific
 Steve Kerr
-Gary Payton II
-Jonathan Kuminga
-Brandin Podziemski
-Chris Paul
-Moses Moody
-Kevon Looney
-Klay Thompson
-Usman Garuba
-Gui Santos
-Jerome Robinson
-Dario Saric
-Andrew Wiggins
-Draymond Green
-Lester Quinones
-Stephen Curry
-Trayce Jackson-Davis
+Gary Payton II,60,59,78,71,82,62,40,78
+Jonathan Kuminga,74,69,83,65,64,58,95,82
+Kyle Anderson,71,54,72,75,73,57,60,79
+Brandin Podziemski,81,61,79,73,56,56,60,82
+Moses Moody,75,61,77,61,61,42,60,79
+Kevon Looney,63,64,76,57,64,92,60,77
+Buddy Hield,76,55,72,66,54,48,50,82
+Gui Santos,69,58,71,55,60,56,70,76
+Quinten Post,69,61,59,44,50,62,60,77
+Andrew Wiggins,82,70,83,66,63,51,60,85
+Draymond Green,70,62,81,79,83,58,75,88
+Stephen Curry,91,58,82,90,63,48,60,99
+Trayce Jackson-Davis,69,70,80,65,57,78,80,80
+Lindy Waters III,85,51,66,59,56,47,70,79
+Pat Spencer,69,58,77,72,45,53,50,70
+Dennis Schroder,81,49,79,83,55,39,70,80

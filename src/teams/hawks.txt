@@ -2,20 +2,21 @@ Atlanta Hawks
 Eastern
 Southeast
 Quin Snyder
-Jalen JohnsonTrent Forrest
-Seth Lundy
-Kobe Bufkin
-Dejounte Murray
-Patty Mills
-Trae Young
-De'Andre Hunter
-Bogdan Bogdanovic
-AJ Griffin
-Clint Capela
-Onyeka Okongwu
-Mouhamed Gueye
-Bruno Fernando
-Garrison Matthews
-Vit Krejci
-Wesley Matthews
-Saddiq Bey
+Jalen Johnson,83,77,78,68,60,69,95,88
+Keaton Wallace,74,46,75,71,66,39,80,75
+Kobe Bufkin,69,56,78,77,50,54,85,82
+Dyson Daniels,71,60,78,77,82,51,65,86
+David Roddy,75,64,77,57,59,54,70,79
+Zaccharie Risacher,74,65,76,64,68,46,80,89
+Trae Young,89,56,79,93,47,40,98,92
+De'Andre Hunter,86,66,78,61,63,47,80,83
+Bogdan Bogdanovic,83,64,75,70,55,44,50,80
+Clint Capela,56,72,79,36,71,90,50,85
+Onyeka Okongwu,80,69,80,50,67,76,80,82
+Mouhamed Gueye,61,63,74,56,53,76,50,72
+Larry Nance Jr.,75,70,77,59,74,62,70,78
+Garrison Mathews,84,57,68,64,51,39,95,77
+Dominick Barlow,73,58,74,56,50,73,55,73
+Vit Krejci,71,55,72,69,54,47,95,73
+Daeqwon Plowden,60,56,78,60,53,44,40,72
+Cody Zeller,63,70,78,52,53,78,30,78

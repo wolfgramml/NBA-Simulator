@@ -2,19 +2,21 @@ Indiana Pacers
 Eastern
 Central
 Rick Carlisle
-Tyrese Haliburton
-Benedict Mathurin
-Doug McDermott
-Obi Toppin
-Andrew Nembhard
-Jarace Walker
-T.J. McConnell
-Kendall Brown
-James Johnson
-Isaiah Wong
-Aaron Nesmith
-Jalen Smith
-Ben Shepard
-Myles Turner
-Pascal Siakam
-Oscar Tshiebwe
+Tyrese Haliburton,87,64,80,91,67,42,60,89
+Bennedict Mathurin,76,66,80,70,53,57,80,84
+Obi Toppin,81,77,78,56,54,60,70,81
+Andrew Nembhard,77,56,73,77,65,44,75,84
+Thomas Bryant,65,72,74,44,57,75,60,76
+Jarace Walker,69,67,84,62,68,53,70,84
+Enrique Freeman,56,65,79,54,58,49,75,77
+T.J. McConnell,85,48,75,81,72,47,95,81
+RayJ Dennis,66,48,74,69,54,38,60,72
+Johnny Furphy,69,60,76,55,55,54,80,80
+James Wiseman,66,71,77,54,60,80,45,82
+James Johnson,56,68,79,64,72,58,25,74
+Isaiah Jackson,64,68,76,46,64,87,50,79
+Aaron Nesmith,80,62,77,60,64,55,40,79
+Ben Sheppard,77,56,79,64,65,46,55,80
+Quenton Jackson,73,53,76,68,63,47,85,74
+Myles Turner,77,77,76,40,76,64,80,84
+Pascal Siakam,89,83,80,72,71,62,80,88

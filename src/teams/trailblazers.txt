@@ -2,21 +2,21 @@ Portland Trail Blazers
 Western
 Northwest
 Chauncey Billups
-Scoot Henderson
-Dalano Banton
-Anfernee Simons
-Deandre Ayton
-Matisse Thybulle
-Kris Murray
-Jerami Grant
-Moses Brown
-Malcolm Brogdon
-Shaedon Sharpe
-Ashton Hagans
-Justin Minaya
-Duop Reath
-Toumani Camara
-Jabari Walker
-Robert Williams III
-Ibou Badji
-Rayan Rupert
+Scoot Henderson,70,61,82,81,58,44,65,88
+Anfernee Simons,82,68,81,79,47,38,80,83
+Deandre Ayton,75,81,79,54,65,79,50,83
+Matisse Thybulle,58,46,78,52,83,41,25,79
+Dalano Banton,77,57,75,75,63,47,75,76
+Deni Avdija,78,64,79,74,70,63,98,82
+Jerami Grant,74,77,82,66,67,42,75,83
+Justin Minaya,62,52,74,60,60,55,70,72
+Bryce McGowens,69,57,74,57,55,44,85,77
+Shaedon Sharpe,79,62,83,70,55,44,75,85
+Rayan Rupert,71,54,73,61,59,56,85,77
+Donovan Clingan,66,71,68,46,68,89,70,85
+Kris Murray,69,61,75,57,58,58,75,80
+Duop Reath,81,60,73,43,53,62,75,74
+Toumani Camara,73,68,72,55,61,60,95,80
+Jabari Walker,69,68,72,54,61,74,50,78
+Robert Williams III,63,69,78,49,80,79,50,83
+Taze Moore,61,59,79,62,51,53,55,71

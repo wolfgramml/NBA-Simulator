@@ -1,22 +1,22 @@
 Los Angeles Lakers
 Western
 Pacific
-Darvin Ham
-Jalen Hood-Schifino
-D'Angelo Russell
-Jarred Vanderbilt
-Anthony Davis
-Skylar Mays
-Cam Reddish
-Gabe Vincent
-Max Christie
-Jaxson Hayes
-Taurean Prince
-Colin Castleton
-Austin Reaves
-Dylan Windler
-Maxwell Lewis
-LeBron James
-Spencer Dinwiddie
-Rui Hachimura
-Christian Wood
+JJ Redick
+Jalen Hood-Schifino,71,57,75,77,55,40,70,81
+Jarred Vanderbilt,72,60,79,52,78,69,45,79
+Anthony Davis,84,88,87,68,85,79,80,94
+Dalton Knecht,82,59,75,61,47,51,70,84
+Cam Reddish,63,64,77,65,73,43,30,76
+Gabe Vincent,77,45,70,68,52,37,75,79
+Bronny James,58,51,83,65,59,46,60,82
+Christian Koloko,62,61,74,41,60,67,60,78
+Jaxson Hayes,67,71,75,36,62,75,40,77
+Max Christie,78,55,82,63,66,44,95,78
+Austin Reaves,84,57,77,73,56,46,85,84
+Dorian Finney-Smith,77,62,76,54,68,55,70,78
+Shake Milton,79,55,75,78,46,46,60,76
+LeBron James,88,90,92,90,71,60,78,99
+Rui Hachimura,77,74,80,55,51,55,75,80
+Christian Wood,66,82,74,42,59,69,25,84
+Trey Jemison III,61,65,74,41,62,71,50,72
+Armel Traore,59,62,70,46,53,63,50,72

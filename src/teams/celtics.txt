@@ -2,20 +2,20 @@ Boston Celtics
 Eastern
 Atlantic
 Joe Mazzulla
-Jayson Tatum,89,68
-Jrue Holiday,77,67
-Jaylen Brown,82,64
-Kristaps Porzingis,80,64
-Derrick White,77,61
-Payton Pritchard,75,49
-Oshae Brissett,68,61
-Drew Peterson,68,52
-JD Davison,67,51
-Xavier Tillman,66,73
-Jordan Walsh,65,57
-Sam Hauser,69,49
-Luke Kornet,70,67
-Al Horford,72,68
-Jaden Springer,68,63
-Svi Mykhailiuk,68,45
-Neemias Queta,62,68
+Jayson Tatum,91,85,85,80,76,69,98,98
+Jrue Holiday,79,58,79,80,81,49,40,86
+Jaylen Brown,87,79,85,79,75,54,95,94
+Kristaps Porzingis,85,85,77,50,66,65,85,88
+Derrick White,88,60,80,82,81,47,70,87
+Payton Pritchard,91,50,71,78,45,50,90,82
+Drew Peterson,71,56,71,60,45,59,90,72
+JD Davison,65,50,74,78,52,46,60,76
+Xavier Tillman,55,70,72,51,66,62,30,78
+Jordan Walsh,59,59,78,58,67,51,40,78
+Anton Watson,63,63,72,54,53,59,50,73
+Sam Hauser,83,56,72,48,48,49,70,78
+Luke Kornet,74,68,64,46,62,82,80,78
+Al Horford,73,71,77,58,72,56,70,82
+Jaden Springer,64,49,74,71,70,55,70,76
+Baylor Scheierman,70,49,73,67,49,50,70,79
+Neemias Queta,63,65,73,43,58,75,95,79

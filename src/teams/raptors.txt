@@ -2,21 +2,20 @@ Toronto Raptors
 Eastern
 Atlantic
 Darko Rajakovic
-Javon Freeman-Liberty
-Kelly Olynyk
-Ochai Agbaji
-Gradey Dick
-Jalen McDaniels
-Scottie Barnes
-Immanuel Quickley
-RJ Barrett
-Bruce Brown
-Jordan Nwora
-Garret Temple
-Mouhamadou Gueye
-Jakob Poeltl
-Markquis Nowell
-Chris Boucher
-Justice Winslow
-Gary Trent Jr.
-Jontay Porter
+A.J. Lawson,68,58,72,58,56,53,98,71
+Gradey Dick,86,58,77,66,59,43,85,84
+Jonathan Mogbo,59,61,81,65,65,73,90,82
+Scottie Barnes,83,76,84,79,74,65,90,90
+Immanuel Quickley,83,64,79,82,59,45,50,81
+RJ Barrett,81,71,83,80,65,57,85,86
+Bruce Brown,78,55,81,74,63,51,40,80
+Ja'Kobe Walter,77,57,80,66,53,50,95,82
+Garrett Temple,66,49,70,66,64,55,70,73
+Jakob Poeltl,77,77,68,49,69,85,95,84
+Ulrich Chomche,49,58,80,55,57,69,40,77
+Jamal Shead,65,45,82,83,58,37,50,79
+Chris Boucher,80,73,73,38,61,68,90,79
+Ochai Agbaji,75,62,84,62,65,47,65,79
+Kelly Olynyk,86,75,65,52,62,71,30,79
+Davion Mitchell,64,45,81,78,67,39,30,83
+Jamison Battle,81,57,68,52,49,50,75,75

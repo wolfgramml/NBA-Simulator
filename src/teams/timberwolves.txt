@@ -2,19 +2,20 @@ Minnesota Timberwolves
 Western
 Northwest
 Chris Finch
-Jaylen Clark
-Monte Morris
-Kyle Anderson
-Jaden McDaniels
-Anthony Edwards
-Jordan McLaughlin
-Wendell Moore Jr.
-Josh Minott
-Nickeil Alexander-Walker
-Mike Conley
-Naz Reid
-Daishen Nix
-Rudy Gobert
-Karl-Anthony Towns
-Leonard Miller
-Luka Garza
+Terrence Shannon Jr.,69,62,80,68,55,42,40,81
+Donte DiVincenzo,70,52,84,76,72,46,65,79
+Jaden McDaniels,70,62,82,54,81,54,30,80
+Rob Dillingham,73,54,79,79,46,39,85,85
+Anthony Edwards,87,78,87,78,71,49,65,96
+Joe Ingles,68,54,73,70,65,45,40,77
+Josh Minott,65,62,75,60,65,55,90,76
+Nickeil Alexander-Walker,78,65,76,73,68,45,50,77
+Mike Conley,72,46,78,85,70,42,70,83
+Naz Reid,78,79,76,55,67,57,30,81
+Tristen Newton,65,50,75,75,53,55,55,77
+Jesse Edwards,50,59,64,34,52,68,70,71
+Jaylen Clark,59,53,79,56,68,51,50,80
+Rudy Gobert,60,71,75,44,77,80,90,87
+Julius Randle,84,82,82,75,61,62,80,87
+Leonard Miller,68,64,75,57,55,62,50,78
+Luka Garza,76,66,63,45,42,70,50,73

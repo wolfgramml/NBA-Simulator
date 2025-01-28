@@ -2,20 +2,20 @@ Miami Heat
 Eastern
 Southeast
 Erik Spoelstra
-Josh Richardson
-Terry Rozier
-Nikola Jovic
-Jamal Cain
-Dru Smith
-Jaime Jaquez Jr.
-Bam Adebayo
-Tyler Herro
-Caleb Martin
-Cole Swider
-Jimmy Butler
-Haywood Highsmith
-Orlando Robinson
-Thomas Bryant
-Alondes Williams
-Kevin Love
-Duncan Robinson
+Isaiah Stevens,67,42,76,80,44,35,40,70
+Josh Richardson,81,55,78,67,73,41,45,77
+Terry Rozier,76,66,83,76,56,47,40,82
+Nikola Jovic,81,61,70,66,55,51,70,79
+Kel'el Ware,68,70,76,44,57,63,75,81
+Josh Christopher,69,61,78,68,58,40,25,79
+Pelle Larsson,69,56,79,60,52,47,95,77
+Jaime Jaquez Jr.,74,66,79,69,68,61,50,83
+Dru Smith,74,50,69,70,62,50,98,73
+Bam Adebayo,75,80,85,70,83,74,50,89
+Tyler Herro,91,63,75,78,51,48,85,88
+Keshad Johnson,67,61,83,57,51,58,40,78
+Alec Burks,78,65,74,68,60,44,50,77
+Jimmy Butler,76,78,87,83,80,59,40,93
+Haywood Highsmith,78,56,73,55,72,48,85,78
+Kevin Love,71,73,71,58,61,83,50,82
+Duncan Robinson,83,56,68,66,44,40,85,78
