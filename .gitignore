@@ -31,3 +31,7 @@ bin/
 NBA-Simulator.iml
 
 .idea/misc.xml
+
+*.iml
+*.xml
+.idea/
