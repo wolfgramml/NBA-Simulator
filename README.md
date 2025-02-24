@@ -7,8 +7,7 @@
 <p>Players</p>
 
 - [ ] Add all necessary data to corresponding team's txt file
-    - [ ] Offensive Rating
-    - [ ] Defensive Rating
+    - [x] Attribute Ratings
     - [ ] Age
     - [ ] Years Experience
     - [ ] Position
@@ -22,13 +21,14 @@
     - [ ] Match outcome
     - [ ] Player stats for matches
 - [ ] Player stat tracking
+- [ ] Team stat tracking
 
 <p>Simulation features</p>
 
 - [ ] Settings
     - [ ] Simulation stop frequency
 - [ ] End of season
-  - [ ] View team stats
+  - [ ] View team stats/standings
   - [ ] Awards
       - [ ] MVP
       - [ ] COTY
@@ -44,7 +44,6 @@
 - [ ] Multiple seasons
     - [ ] Generating new players
     - [ ] Player development
-- [ ] Automatically updating rosters to reflect real life
 - [ ] Save state to view later or to resume simulation
 - [ ] More features
   - [ ] Injuries
@@ -58,6 +57,7 @@
 - Created txt files for each team and added all necessary info about the team
 - Parsed txt files to get info about the team and create Team objects
 - Created matchups for each team
-- Added all players' names to associated team's txt file
+- Added all players' names and 2K attribute ratings to associated team's txt file
 - Ensured each team has 41 home games and 41 away games
 - Created a method to calculate the standings at any given time
+- Created script to update teams' rosters
