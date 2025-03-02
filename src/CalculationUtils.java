@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
@@ -15,10 +16,38 @@ public class CalculationUtils {
     public static void calculateMatch(Matchup matchup) {
         Team homeTeam = matchup.getHomeTeam();
         Team awayTeam = matchup.getAwayTeam();
-        int val;
-        Random rand = new Random();
-        val = rand.nextInt();
-        if (val % 2 == 0) {
+        List<Player> homePlayers = getTopPlayers(homeTeam.getPlayers());
+        List<Player> awayPlayers = getTopPlayers(awayTeam.getPlayers());
+
+        List<Integer> homeMinutes = assignMinutes(homePlayers);
+        List<Integer> awayMinutes = assignMinutes(awayPlayers);
+
+        for (int i = 0; i < homePlayers.size(); i++) {
+            homePlayers.get(i).calculateStats(homeMinutes.get(i));
+        }
+
+        for (int i = 0; i < awayPlayers.size(); i++) {
+            awayPlayers.get(i).calculateStats(awayMinutes.get(i));
+        }
+
+        Statline homeStatline = new Statline(0, 0, 0);
+        Statline awayStatline = new Statline(0, 0, 0);
+
+        for (int i = 0; i < homePlayers.size(); i++) {
+            homeStatline.addPoints(homePlayers.get(i).getLastGameStats().getPoints());
+            homeStatline.addRebounds(homePlayers.get(i).getLastGameStats().getRebounds());
+            homeStatline.addAssists(homePlayers.get(i).getLastGameStats().getAssists());
+        }
+
+        for (int i = 0; i < awayPlayers.size(); i++) {
+            awayStatline.addPoints(awayPlayers.get(i).getLastGameStats().getPoints());
+            awayStatline.addRebounds(awayPlayers.get(i).getLastGameStats().getRebounds());
+            awayStatline.addAssists(awayPlayers.get(i).getLastGameStats().getAssists());
+        }
+
+        int pointsDiff = homeStatline.getPoints() - awayStatline.getPoints();
+
+        if (pointsDiff > 0) {
             matchup.updateWins();
             homeTeam.updateWins();
             awayTeam.updateLosses();
@@ -91,4 +120,23 @@ public class CalculationUtils {
             westTeams.get(i - 1).displayRecord();
         }
     }
+
+    private static List<Player> getTopPlayers(List<Player> players) {
+        players.sort((p1, p2) -> Double.compare(p2.getOverallRating(), p1.getOverallRating()));
+        return players;
+    }
+
+    private static List<Integer> assignMinutes(List<Player> players) {
+    List<Integer> minutes = new ArrayList<>(Collections.nCopies(players.size(), 0));
+
+    for (int i = 0; i < players.size(); i++) {
+        if (i < 5) {
+            minutes.set(i, 36);
+        } else if (i < 10) {
+            minutes.set(i, 12);
+        }
+    }
+
+    return minutes;
+}
 }
