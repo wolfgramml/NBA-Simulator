@@ -11,7 +11,7 @@ public class Driver {
 
         Scanner scanner = new Scanner(System.in);
         int teamNum;
-        // SetupUtils.display();
+        SetupUtils.display();
         // System.out.println("What team's record would you like to view? Enter -1 to quit.");
         // teamNum = scanner.nextInt();
         // while(teamNum != -1) {
@@ -22,6 +22,6 @@ public class Driver {
         //     teamNum = scanner.nextInt();
         // }
         scanner.close();
-        CalculationUtils.calculateStandings();
+        // CalculationUtils.calculateStandings();
     }
 }

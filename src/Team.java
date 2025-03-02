@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Team {
     private String name;
-    private Player[] players;
+    private List<Player> players = new ArrayList<>();
     private int wins = 0;
     private int losses = 0;
     private String conference;
@@ -15,15 +15,24 @@ public class Team {
     private int homeGamesPlayed = 0;
     private int awayGamesPlayed = 0;
 
-    public Team(String name, String conference, String division) {
+    public Team(String name, String conference, String division, String coach) {
         this.name = name;
         this.conference = conference;
         this.division = division;
+        this.coach = coach;
     }
 
-    public Team(String name, Player[] players) {
+    public Team(String name, List<Player> players) {
         this.name = name;
         this.players = players;
+    }
+
+    public void addPlayer(Player player) {
+        players.add(player);
+    }
+
+    public List<Player> getPlayers() {
+        return players;
     }
 
     public void updateWins() {
@@ -37,6 +46,10 @@ public class Team {
     public void display() {
         System.out.println("The " + name + " are in the " + conference + " Conference in the "
             + division + " division.");
+        System.out.println("Players: ");
+        for(int i = 0; i < players.size(); i++) {
+            players.get(i).display();
+        }
     }
 
     public void displayRecord() {

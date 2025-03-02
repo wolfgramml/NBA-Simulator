@@ -12,18 +12,31 @@ public class SetupUtils {
         String teamName;
         String conference;
         String division;
+        String coach;
         try {
             Scanner scanner = new Scanner(new File(path));
             teamName = scanner.nextLine();
             conference = scanner.nextLine();
             division = scanner.nextLine();
-            newTeam = new Team(teamName, conference, division);
+            coach = scanner.nextLine();
+            newTeam = new Team(teamName, conference, division, coach);
+            while (scanner.hasNextLine()) {
+                newTeam.addPlayer(parsePlayer(scanner.nextLine(), newTeam));
+            }
             scanner.close();
         } catch (FileNotFoundException e) {
             System.err.println(e.getMessage());
         }
-
         return newTeam;
+    }
+
+    public static Player parsePlayer(String line, Team team) {
+        String[] parts = line.split(",");
+        Player player = new Player(parts[0], team, Integer.parseInt(parts[1]), Integer.parseInt(parts[2]),
+                                Integer.parseInt(parts[3]), Integer.parseInt(parts[4]), Integer.parseInt(parts[5]),
+                                Integer.parseInt(parts[6]), Integer.parseInt(parts[7]), Integer.parseInt(parts[8]));
+
+        return player;
     }
 
     public static void addTeams() {

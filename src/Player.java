@@ -1,16 +1,15 @@
 public class Player {
     private String name;
     private Team team;
-    /*
-    Offensive rating is calculated by the mean of outside scoring, inside scoring, athleticism,
-    playmaking, intangibles, and potential according to 2kratings.com
-     */
-    private int offenseRating;
-    /*
-    Defensive rating is calculated by the mean of defending and rebounding on 2kratings.com
-     */
-    private int defenseRating;
-    private String position;
+    private int outsideScoring;
+    private int insideScoring;
+    private int athleticism;
+    private int playmaking;
+    private int defense;
+    private int rebounding;
+    private int intangibles;
+    private int potential;
+    private String position; // Not yet implemented
     private int yearsExperience; // won't implement until working on multiple seasons
     private int age; // Probably won't implement until working on multiple seasons
 
@@ -19,11 +18,21 @@ public class Player {
         this.team = team;
     }
 
-    public Player(String name, Team team, int offenseRating, int defenseRating) {
+    public Player(String name, Team team, int outsideScoring, int insideScoring, int athleticism, int rebounding,
+                    int playmaking, int defense, int intangibles, int potential) {
         this.name = name;
         this.team = team;
-        this.offenseRating = offenseRating;
-        this.defenseRating = defenseRating;
+        this.outsideScoring = outsideScoring;
+        this.insideScoring = insideScoring;
+        this.athleticism = athleticism;
+        this.playmaking = playmaking;
+        this.defense = defense;
+        this.rebounding = rebounding;
+        this.intangibles = intangibles;
+        this.potential = potential;
     }
 
+    public void display() {
+        System.out.println(name);
+    }
 }
