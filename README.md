@@ -17,10 +17,10 @@
 
 <p>Functionality</p>
 
-- [ ] Calculations
-    - [ ] Match outcome
-    - [ ] Player stats for matches
-- [ ] Player stat tracking
+- [x] Calculations
+    - [x] Match outcome
+    - [x] Player stats for matches
+- [x] Player stat tracking
 - [ ] Team stat tracking
 
 <p>Simulation features</p>
@@ -63,3 +63,6 @@
 - Ensured each team has 41 home games and 41 away games
 - Created a method to calculate the standings at any given time
 - Created script to update teams' rosters
+- Calculate player stats for each game
+- Store player statline history
+- Calculate match outcome based on each player's stats
