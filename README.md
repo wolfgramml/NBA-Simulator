@@ -1,6 +1,6 @@
 # NBA Simulator
 
-<p>This is a long term project with the intention of creating a simulator to simulate real life NBA teams and players.</p>
+<p>This is a long term project with the intention of creating a simulator to simulate real life NBA teams and players. This may be made into a web app or transition to using JavaFX at some point.</p>
 
 ## TODO
 <p>Here is a list of features that are yet to be implemented:</p>
@@ -29,6 +29,7 @@
     - [ ] Simulation stop frequency
 - [ ] End of season
   - [ ] View team stats/standings
+  - [ ] View player stats
   - [ ] Awards
       - [ ] MVP
       - [ ] COTY
@@ -37,7 +38,7 @@
 
 <p>GUI</p>
 
-- [ ] Transition to using JavaFX
+- [ ] Transition to using JavaFX OR transition to web app
 
 <p>Long term goals</p>
 
@@ -54,8 +55,9 @@
 ## Already Implemented
 <p>These features have already been implemented:</p>
 
-- Created txt files for each team and added all necessary info about the team
+- Created txt files for each team and added all necessary info about the teams and players
 - Parsed txt files to get info about the team and create Team objects
+- Parsed txt files to get info about each player and create Player objects
 - Created matchups for each team
 - Added all players' names and 2K attribute ratings to associated team's txt file
 - Ensured each team has 41 home games and 41 away games
