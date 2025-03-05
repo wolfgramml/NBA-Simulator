@@ -38,12 +38,14 @@ public class CalculationUtils {
             homeStatline.addRebounds(homePlayers.get(i).getLastGameStats().getRebounds());
             homeStatline.addAssists(homePlayers.get(i).getLastGameStats().getAssists());
         }
+        homeTeam.addStatline(homeStatline);
 
         for (int i = 0; i < awayPlayers.size(); i++) {
             awayStatline.addPoints(awayPlayers.get(i).getLastGameStats().getPoints());
             awayStatline.addRebounds(awayPlayers.get(i).getLastGameStats().getRebounds());
             awayStatline.addAssists(awayPlayers.get(i).getLastGameStats().getAssists());
         }
+        awayTeam.addStatline(awayStatline);
 
         int pointsDiff = homeStatline.getPoints() - awayStatline.getPoints();
 

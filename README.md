@@ -11,17 +11,6 @@
     - [ ] Age
     - [ ] Years Experience
     - [ ] Position
-- [ ] Track individual game stats
-- [ ] Track average stats
-
-
-<p>Functionality</p>
-
-- [x] Calculations
-    - [x] Match outcome
-    - [x] Player stats for matches
-- [x] Player stat tracking
-- [ ] Team stat tracking
 
 <p>Simulation features</p>
 
@@ -64,5 +53,7 @@
 - Created a method to calculate the standings at any given time
 - Created script to update teams' rosters
 - Calculate player stats for each game
-- Store player statline history
 - Calculate match outcome based on each player's stats
+- Store player statline history
+- Store team statline history
+- Calculate and display per game stats for teams and players

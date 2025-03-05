@@ -14,6 +14,7 @@ public class Team {
     private int nonDivThreeGames = 0;
     private int homeGamesPlayed = 0;
     private int awayGamesPlayed = 0;
+    private List<Statline> gameStats = new ArrayList<>();
 
     public Team(String name, String conference, String division, String coach) {
         this.name = name;
@@ -41,6 +42,41 @@ public class Team {
 
     public void updateLosses() {
         losses += 1;
+    }
+
+    public void addStatline(Statline statline) {
+        gameStats.add(statline);
+    }
+
+    public List<Statline> getGameStats() {
+        return gameStats;
+    }
+
+    public void displayPerGameStats() {
+        int gamesPlayed = gameStats.size(); // Directly get size instead of incrementing
+        if (gamesPlayed == 0) { 
+            System.out.println(name);
+            System.out.println("No games played yet.");
+            return;
+        }
+
+        int totalPoints = 0;
+        int totalRebounds = 0;
+        int totalAssists = 0;
+        for (Statline statline : gameStats) {
+            totalPoints += statline.getPoints();
+            totalRebounds += statline.getRebounds();
+            totalAssists += statline.getAssists();
+        }
+
+        double pointsPerGame = (double) totalPoints / gamesPlayed;
+        double reboundsPerGame = (double) totalRebounds / gamesPlayed;
+        double assistsPerGame = (double) totalAssists / gamesPlayed;
+
+        System.out.println(name);
+        System.out.println("Points per game: " + pointsPerGame);
+        System.out.println("Rebounds per game: " + reboundsPerGame);
+        System.out.println("Assists per game: " + assistsPerGame);
     }
 
     public void display() {

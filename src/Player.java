@@ -68,6 +68,33 @@ public class Player {
         gameStats.add(statline);
     }
 
+    public void displayPerGameStats() {
+        int gamesPlayed = gameStats.size(); // Directly get size instead of incrementing
+        if (gamesPlayed == 0) { 
+            System.out.println(name);
+            System.out.println("No games played yet.");
+            return;
+        }
+
+        int totalPoints = 0;
+        int totalRebounds = 0;
+        int totalAssists = 0;
+        for (Statline statline : gameStats) {
+            totalPoints += statline.getPoints();
+            totalRebounds += statline.getRebounds();
+            totalAssists += statline.getAssists();
+        }
+
+        double pointsPerGame = (double) totalPoints / gamesPlayed;
+        double reboundsPerGame = (double) totalRebounds / gamesPlayed;
+        double assistsPerGame = (double) totalAssists / gamesPlayed;
+
+        System.out.println(name);
+        System.out.println("Points per game: " + pointsPerGame);
+        System.out.println("Rebounds per game: " + reboundsPerGame);
+        System.out.println("Assists per game: " + assistsPerGame);
+    }
+
     public Statline getLastGameStats() {
         return gameStats.get(gameStats.size() - 1);
     }
