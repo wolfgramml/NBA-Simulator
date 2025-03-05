@@ -1,3 +1,5 @@
+package com.example.nbasimulator.models;
+
 public class Matchup {
     private final Team teamOne;
     private final Team teamTwo;

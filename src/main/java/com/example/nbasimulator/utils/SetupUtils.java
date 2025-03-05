@@ -1,8 +1,14 @@
+package com.example.nbasimulator.utils;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+import com.example.nbasimulator.models.Player;
+import com.example.nbasimulator.models.Team;
+import com.example.nbasimulator.models.Matchup;
 
 public class SetupUtils {
     private static final List<String> listOfTeamNames = new ArrayList<>();

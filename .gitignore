@@ -36,3 +36,5 @@ NBA-Simulator.iml
 *.xml
 .idea/
 src/updatedteams/*
+src/main/resources/updatedteams/*
+target/*

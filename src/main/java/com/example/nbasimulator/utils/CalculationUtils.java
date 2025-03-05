@@ -1,8 +1,15 @@
+package com.example.nbasimulator.utils;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
+
+import com.example.nbasimulator.models.Matchup;
+import com.example.nbasimulator.models.Player;
+import com.example.nbasimulator.models.Statline;
+import com.example.nbasimulator.models.Team;
 
 public class CalculationUtils {
 

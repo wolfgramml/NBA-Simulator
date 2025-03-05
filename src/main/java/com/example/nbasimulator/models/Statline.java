@@ -1,3 +1,5 @@
+package com.example.nbasimulator.models;
+
 public class Statline {
     private int points;
     private int rebounds;

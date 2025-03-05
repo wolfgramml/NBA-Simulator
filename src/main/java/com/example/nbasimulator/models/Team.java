@@ -1,5 +1,9 @@
+package com.example.nbasimulator.models;
+
 import java.util.ArrayList;
 import java.util.List;
+
+import com.example.nbasimulator.utils.CalculationUtils;
 
 public class Team {
     private String name;
